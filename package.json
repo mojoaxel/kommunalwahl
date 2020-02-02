@@ -1,0 +1,19 @@
+{
+  "name": "kommunalwahl",
+  "version": "1.0.0",
+  "description": "Eine WebApp die Dir hilft bei der Kommunalwahl richtig zu wählen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojoaxel/kommunalwahl.git"
+  },
+  "author": "Alexander Wunschik <dev@wunschik.net>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mojoaxel/kommunalwahl/issues"
+  },
+  "homepage": "https://github.com/mojoaxel/kommunalwahl#readme"
+}
