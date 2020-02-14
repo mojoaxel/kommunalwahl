@@ -1,0 +1,18 @@
+{
+	"nummer": 3,
+	"partei": {
+		"kurzform": "FREIE WÄHLER",
+		"langform": "FREIE WÄHLER Bayern"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Heidi",
+			"nachname": "Lau",
+			"berufe": [
+				"Realschullehrerin",
+				"Stadtratsmitglied"
+			]
+		}
+	]
+}

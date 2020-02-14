@@ -1,0 +1,272 @@
+{
+	"nummer": 1,
+	"partei": {
+		"kurzform": "CSU",
+		"langform": "Christlich-Soziale Union in Bayern e.V.",
+		"homepage": "https://www.csu-fuerth.de/",
+		"logo": "liste.01.svg"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Dietmar",
+			"nachname": "Helm",
+			"alter": 51,
+			"berufe": [
+				"Geschäftsführer",
+				"Landwirtschaftsmeister"
+			],
+			"image": "101.jpg"
+		},
+		{
+			"listenplatz": 2,
+			"vorname": "Birgit",
+			"nachname": "Bayer-Tersch",
+			"alter": 51,
+			"berufe": [
+				"Geschäftsführerin im Wohlfahrtswesen"
+			]
+		},
+		{
+			"listenplatz": 3,
+			"vorname": "Maximilian",
+			"nachname": "Ammon"
+		},
+		{
+			"listenplatz": 4,
+			"titel": ["Dr."],
+			"vorname": "Andrea",
+			"nachname": "Heilmaier"
+		},
+		{
+			"listenplatz": 4,
+			"titel": ["Dr."],
+			"vorname": "Joachim",
+			"nachname": "Schmidt"
+		},
+		{
+			"listenplatz": 6,
+			"vorname": "Angelika",
+			"nachname": "Ledenko"
+		},
+		{
+			"listenplatz": 7,
+			"vorname": "Peter",
+			"nachname": "xxx"
+		},
+		{
+			"listenplatz": 8,
+			"vorname": "Ronald",
+			"nachname": "Morawski"
+		},
+		{
+			"listenplatz": 9,
+			"titel": ["Prof.", "Dr."],
+			"vorname": "Karin",
+			"nachname": "Falkenberg"
+		},
+		{
+			"listenplatz": 10,
+			"vorname": "Christian",
+			"nachname": "Brunner"
+		},
+		{
+			"listenplatz": 11,
+			"titel": ["Dr."],
+			"vorname": "Michael",
+			"nachname": "Au"
+		},
+		{
+			"listenplatz": 12,
+			"vorname": "Michael",
+			"nachname": "Helgert"
+		},
+		{
+			"listenplatz": 13,
+			"vorname": "Michaela",
+			"nachname": "Partheimüller"
+		},
+		{
+			"listenplatz": 14,
+			"vorname": "Wolfgang",
+			"nachname": "König"
+		},
+		{
+			"listenplatz": 15,
+			"vorname": "Peter",
+			"nachname": "Pfann"
+		},
+		{
+			"listenplatz": 16,
+			"vorname": "Thomas",
+			"nachname": "Blösel"
+		},
+		{
+			"listenplatz": 18,
+			"vorname": "Simone",
+			"nachname": "Wenning"
+		},
+		{
+			"listenplatz": 19,
+			"vorname": "Sigrid",
+			"nachname": "Ziegelmeir"
+		},
+		{
+			"listenplatz": 20,
+			"vorname": "Stephan",
+			"nachname": "Scheuerer"
+		},
+		{
+			"listenplatz": 21,
+			"vorname": "Günter",
+			"nachname": "Kahl"
+		},
+		{
+			"listenplatz": 22,
+			"vorname": "Michael",
+			"nachname": "Hofmann"
+		},
+		{
+			"listenplatz": 23,
+			"titel": ["Dr."],
+			"vorname": "Alexandra Latteier",
+			"nachname": "Latteier"
+		},
+		{
+			"listenplatz": 24,
+			"vorname": "Robert",
+			"nachname": "Middendorf"
+		},
+		{
+			"listenplatz": 25,
+			"vorname": "Claudia",
+			"nachname": "Kuhn-Otte"
+		},
+		{
+			"listenplatz": 26,
+			"vorname": "Hans-Jürgen",
+			"nachname": "Bühn"
+		},
+		{
+			"listenplatz": 27,
+			"vorname": "Thomas",
+			"nachname": "Szablyar"
+		},
+		{
+			"listenplatz": 28,
+			"vorname": "Samuel",
+			"nachname": "Öser"
+		},
+		{
+			"listenplatz": 29,
+			"vorname": "Susanne",
+			"nachname": "Erdmannsdörfer"
+		},
+		{
+			"listenplatz": 30,
+			"vorname": "Dominik",
+			"nachname": "Pausch"
+		},
+		{
+			"listenplatz": 31,
+			"vorname": "Thomas",
+			"nachname": "Winning"
+		},
+		{
+			"listenplatz": 32,
+			"vorname": "Franz",
+			"nachname": "Stich"
+		},
+		{
+			"listenplatz": 33,
+			"vorname": "Peter",
+			"nachname": "Jochum"
+		},
+		{
+			"listenplatz": 34,
+			"vorname": "Norbert",
+			"nachname": "Hofmann"
+		},
+		{
+			"listenplatz": 35,
+			"vorname": "Yvonne",
+			"nachname": "Schnitzer"
+		},
+		{
+			"listenplatz": 36,
+			"vorname": "Johannes",
+			"nachname": "xxx"
+		},
+		{
+			"listenplatz": 37,
+			"vorname": "Anna",
+			"nachname": "Torres"
+		},
+		{
+			"listenplatz": 38,
+			"titel": ["Dr."],
+			"vorname": "Edgar",
+			"nachname": "Zaus"
+		},
+		{
+			"listenplatz": 39,
+			"vorname": "Petra",
+			"nachname": "Leibinger"
+		},
+		{
+			"listenplatz": 40,
+			"vorname": "Michael",
+			"nachname": "Wuttke"
+		},
+		{
+			"listenplatz": 41,
+			"vorname": "Fred",
+			"nachname": "Jäger"
+		},
+		{
+			"listenplatz": 42,
+			"vorname": "Marlise",
+			"nachname": "Krause-Teichgräber"
+		},
+		{
+			"listenplatz": 43,
+			"navornameme": "Alessia",
+			"nachname": "Klaus"
+		},
+		{
+			"listenplatz": 44,
+			"vorname": "Petra",
+			"nachname": "Rudisch"
+		},
+		{
+			"listenplatz": 45,
+			"vorname": "Andrea",
+			"nachname": "Hildebrandt"
+		},
+		{
+			"listenplatz": 46,
+			"vorname": "Denny",
+			"nachname": "Morawski"
+		},
+		{
+			"listenplatz": 47,
+			"vorname": "Adalbert",
+			"nachname": "Scheuerer"
+		},
+		{
+			"listenplatz": 48,
+			"vorname": "Richard",
+			"nachname": "Esperschidt"
+		},
+		{
+			"listenplatz": 49,
+			"name": "Erika",
+			"nachname": "Beiling"
+		},
+		{
+			"listenplatz": 50,
+			"vorname": "Kirsten",
+			"nachname": "Otte"
+		}
+	]
+}

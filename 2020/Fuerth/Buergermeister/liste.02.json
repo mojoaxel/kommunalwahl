@@ -1,0 +1,18 @@
+{
+	"nummer": 2,
+	"partei": {
+		"kurzform": "GRÜNE",
+		"langform": "BÜNDNIS 90/DIE GRÜNEN"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Kamran",
+			"nachname": "Salimi",
+			"berufe": [
+				"Krankenpfleger",
+				"Stadtratsmitglied"
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"nummer": 3,
+	"partei": {
+		"kurzform": "FREIE WÄHLER",
+		"langform": "FREIE WÄHLER Bayern",
+		"homepage": "https://www.fw-fuerth.de/"
+	},
+	"kandidaten": [{
+		"listenplatz": 1,
+		"vorname": "Heidi",
+		"nachname": "Lau",
+		"alter": 65,
+		"berufe": [
+			"Realschullehrerin"
+		],
+		"webseite": "https://www.fw-fuerth.de/kandidaten/kandidat-01-lau-heidi/",
+		"image": "301.jpg"
+	}, {
+		"listenplatz": 2,
+		"vorname": "Joachim",
+		"nachname": "Fulde",
+		"alter": 71,
+		"berufe": [
+			"Betreuungsassistent"
+		],
+		"image": "302.jpg"
+	}]
+}

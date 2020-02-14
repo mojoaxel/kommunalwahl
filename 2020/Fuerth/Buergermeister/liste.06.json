@@ -1,0 +1,18 @@
+{
+	"nummer": 6,
+	"partei": {
+		"kurzform": "FDP",
+		"langform": "Freie Demokratische Partei"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Stephan",
+			"nachname": "Eichmann",
+			"berufe": [
+				"Rechtsanwalt",
+				"Stadtratsmitglied"
+			]
+		}
+	]
+}

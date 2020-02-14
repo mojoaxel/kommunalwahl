@@ -1,0 +1,18 @@
+{
+	"nummer": 8,
+	"partei": {
+		"kurzform": "ÖDP",
+		"langform": "Ökologisch-Demokratische Partei"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Manfred",
+			"nachname": "Schäfer",
+			"berufe": [
+				"Apotheker", 
+				"Ehrenamtlicher Richter am Arbeitsgericht"
+			]
+		}
+	]
+}

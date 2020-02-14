@@ -1,0 +1,19 @@
+{
+	"nummer": 4,
+	"partei": {
+		"kurzform": "AfD",
+		"langform": "Alternative für Deutschland"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Andreas",
+			"nachname": "Haas",
+			"berufe": [
+				"Softwareentwickler",
+				"Dipl.-Inf. (FH)",
+				"Sack"
+			]
+		}
+	]
+}

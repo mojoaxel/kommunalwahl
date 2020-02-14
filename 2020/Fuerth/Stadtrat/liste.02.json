@@ -1,0 +1,20 @@
+{
+	"nummer": 2,
+	"partei": {
+		"kurzform": "GRÜNE",
+		"langform": "BÜNDNIS 90/DIE GRÜNEN",
+		"homepage": "https://gruene-fuerth.de/",
+		"logo": "liste.02.svg"
+	},
+	"kandidaten": [{
+		"listenplatz": 22,
+		"vorname": "Alexander",
+		"nachname": "Wunschik",
+		"alter": 39,
+		"berufe": [
+			"Software-Entwickler",
+			"Geschäftsführer"
+		],
+		"image": "302.jpg"
+	}]
+}

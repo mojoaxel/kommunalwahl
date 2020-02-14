@@ -1,0 +1,18 @@
+{
+	"nummer": 5,
+	"partei": {
+		"kurzform": "SPD",
+		"langform": "Sozialdemokratische Partei Deutschlands"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"titles": ["Dr."],
+			"vorname": "Thomas",
+			"nachname": "Jung",
+			"berufe": [
+				"Oberbürgermeister"
+			]
+		}
+	]
+}

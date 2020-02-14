@@ -1,0 +1,16 @@
+{
+	"nummer": 7,
+	"partei": {
+		"kurzform": "DIE LINKE"
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Niklas",
+			"nachname": "Haupt",
+			"berufe": [
+				"Bildungsreferent"
+			]
+		}
+	]
+}

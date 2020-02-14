@@ -1,0 +1,20 @@
+{
+	"nummer": 1,
+	"partei": {
+		"kurzform": "CSU",
+		"langform": "Christlich-Soziale Union in Bayern e.V."
+	},
+	"kandidaten": [
+		{
+			"listenplatz": 1,
+			"vorname": "Dietmar",
+			"nachname": "Helm",
+			"berufe": [
+				"Landwirtschaftsmeister",
+				"Stadtratsmitglied",
+				"Burgfarrnbach"
+			],
+			"image": "kandidat.101.jpg"
+		}
+	]
+}
