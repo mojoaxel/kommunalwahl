@@ -1,0 +1,17 @@
+.list {
+	margin: 0.5em;
+	padding: 0.5em;
+	border: 1px solid black;
+	min-width: 20em;
+	max-width: 20em;
+
+	.listheader {
+		margin: -0.5em;
+		padding: 0.5em;
+		border-bottom: 1px solid black;
+	}
+
+	header {
+		margin-bottom: 1em;
+	}
+}

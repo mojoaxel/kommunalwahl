@@ -1,0 +1,36 @@
+:host {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+}
+
+aside {
+	flex-shrink: 0;
+
+	text-align: center;
+	padding: 1em;
+
+	background: white;
+	border-bottom: 1px solid gray;
+
+	h1, h2, h3 {
+		margin: 0;
+	}
+
+	h2, h3 {
+		font-weight: normal;
+	}
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+}
+
+@media only screen and (max-width: 600px) {
+	main {
+		flex-wrap: wrap;
+	}
+}

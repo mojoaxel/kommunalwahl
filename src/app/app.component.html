@@ -1,4 +1,14 @@
-<h1>{{title}} {{year}} {{town}}</h1>
+<aside>
+	<h1>Stimmzettel</h1>
+	<h2>zur Wahl des Stadtrates der kreisfreien Stadt {{town}}</h2>
+	<h3>am 15. März {{year}}</h3>
+</aside>
 
-<app-stepper></app-stepper>
+<!-- app-stepper></!-- app-stepper -->
 
+<main>
+	<app-list 
+		*ngFor="let list of lists"
+		[list]="list"
+	></app-list>
+</main>

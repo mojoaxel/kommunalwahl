@@ -1,0 +1,8 @@
+<div [textContent]="getNumber()"></div>
+<h3>
+	<span *ngIf="candidate.titel && candidate.titel.length">{{candidate.titel?.join(' ')}} </span>
+	<span>{{candidate.vorname}} {{candidate.nachname}}</span>
+	<span *ngIf="candidate.alter"> ({{candidate.alter}} Jahre)</span>
+</h3>
+
+<div *ngIf="candidate.berufe && candidate.berufe.length">Beruf: {{candidate.berufe?.join('; ')}}</div>

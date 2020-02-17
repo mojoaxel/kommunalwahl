@@ -1,0 +1,12 @@
+<section class="list">
+	<div class="listheader">Wahlvorschlag Nr. {{list.nummer}}</div>
+
+	<header>
+		<h2>{{list.nummer}}: <span title="{{list.partei.langform}}">{{list.partei.kurzform}}</span></h2>
+		<div [innerHTML]="getSubtitle()"></div>
+	</header>
+	
+	<app-candidate *ngFor="let candidate of list.kandidaten"
+		[candidate]="candidate"
+	></app-candidate>
+</section>
