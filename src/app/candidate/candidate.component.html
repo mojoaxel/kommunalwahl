@@ -1,7 +1,10 @@
 <div [textContent]="number"></div>
-<h3>
+
+<div *ngIf="candidate.image" class="image"><img src="assets/{{candidate.image}}" /></div>
+
+<h3 class="name">
 	<span *ngIf="candidate.titels && candidate.titels.length">{{candidate.titels.join(' ')}} </span>
-	<span class="name">{{candidate.forename}} {{candidate.surname}}</span>
+	<span>{{candidate.forename}} {{candidate.surname}}</span>
 </h3>
 
 <div *ngIf="candidate.birthyear && candidate.birthyear"><b>Geburtsjahr:</b> {{candidate.birthyear}} ({{age}} Jahre)</div>

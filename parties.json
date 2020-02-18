@@ -16,6 +16,7 @@
 				"gender": "m",
 				"birthyear": 1968,
 				"district": "Burgfarrnbach",
+				"image": "101.jpg",
 				"jobs": [
 					"Landwirtschaftsmeister",
 					"Stadtratsmitglied"
@@ -29,6 +30,7 @@
 				"gender": "w",
 				"birthyear": 1961,
 				"district": "Poppenreuth",
+				"image": "102.jpg",
 				"jobs": [
 					"Dipl.-Betriebsw. (FH)",
 					"Geschäftsführerin",
@@ -43,6 +45,7 @@
 				"gender": "m",
 				"birthyear": 1953,
 				"district": "Burgfarrnbach",
+				"image": "103.jpg",
 				"jobs": [
 					"Metzgermeister",
 					"Stadtratsmitglied"
@@ -56,6 +59,7 @@
 				"surname": "Heilmaier",
 				"gender": "w",
 				"birthyear": 1978,
+				"image": "104.jpg",
 				"titels": [
 					"Dr."
 				],
@@ -73,6 +77,7 @@
 				"gender": "m",
 				"birthyear": 1953,
 				"district": "Ronhof",
+				"image": "105.jpg",
 				"titels": [
 					"Dr."
 				],
@@ -89,6 +94,7 @@
 				"gender": "w",
 				"birthyear": 1955,
 				"district": "Sack",
+				"image": "106.jpg",
 				"jobs": [
 					"Heilpraktikerin",
 					"Stadtratsmitglied"
@@ -102,6 +108,7 @@
 				"gender": "m",
 				"birthyear": 1967,
 				"district": "Dambach",
+				"image": "107.jpg",
 				"jobs": [
 					"selbständiger Kaufmann"
 				]
@@ -114,6 +121,7 @@
 				"gender": "m",
 				"birthyear": 1959,
 				"district": "Stadeln",
+				"image": "108.jpg",
 				"jobs": [
 					"selbständiger Schausteller",
 					"Stadtratsmitglied"
@@ -128,6 +136,7 @@
 				"nobel": "Frfr. v. Freusberg-Steinhorst",
 				"gender": "w",
 				"birthyear": 1969,
+				"image": "109.jpg",
 				"titels": [
 					"Dr."
 				],
@@ -142,6 +151,8 @@
 				"surname": "Brunner",
 				"gender": "m",
 				"birthyear": 1995,
+				"image": "110.jpg",
+				"webpage": "https://fue2020.de/unsere-kandidaten/christian-brunner",
 				"jobs": [
 					"B.A.",
 					"Student"
@@ -156,6 +167,7 @@
 				"gender": "m",
 				"birthyear": 1970,
 				"district": "Oberfürberg",
+				"image": "111.jpg",
 				"titels": [
 					"Dr."
 				],
@@ -172,6 +184,7 @@
 				"surname": "Helgert",
 				"gender": "m",
 				"birthyear": 1964,
+				"image": "112.jpg",
 				"jobs": [
 					"selbständiger Elektro-Handwerksmeister"
 				]
@@ -184,6 +197,7 @@
 				"gender": "w",
 				"birthyear": 1976,
 				"district": "Stadeln",
+				"image": "113.jpg",
 				"jobs": [
 					"Geschäftsführerin"
 				]
@@ -196,6 +210,7 @@
 				"gender": "m",
 				"birthyear": 1958,
 				"district": "Dambach",
+				"image": "114.jpg",
 				"jobs": [
 					"selbständig"
 				]
@@ -207,6 +222,7 @@
 				"surname": "Pfann",
 				"gender": "m",
 				"birthyear": 1943,
+				"image": "115.jpg",
 				"jobs": [
 					"Landwirt",
 					"Stadtratsmitglied"
@@ -219,6 +235,7 @@
 				"surname": "Blösel",
 				"gender": "m",
 				"birthyear": 1962,
+				"image": "116.jpg",
 				"jobs": [
 					"Kaufmann Medizintechnik"
 				]
@@ -230,6 +247,7 @@
 				"surname": "Kachelrieß",
 				"gender": "m",
 				"birthyear": 1972,
+				"image": "117.jpg",
 				"jobs": [
 					"Fliesenlegermeister"
 				]
@@ -242,6 +260,7 @@
 				"gender": "w",
 				"birthyear": 1977,
 				"district": "Poppenreuth",
+				"image": "118.jpg",
 				"jobs": [
 					"Modedesignerin"
 				]
@@ -253,6 +272,7 @@
 				"surname": "Ziegelmeir",
 				"gender": "w",
 				"birthyear": 1955,
+				"image": "119.jpg",
 				"jobs": [
 					"Gymnasiallehrerin"
 				]
@@ -264,6 +284,7 @@
 				"surname": "Scheuerer",
 				"gender": "m",
 				"birthyear": 1969,
+				"image": "120.jpg",
 				"jobs": [
 					"Anlagenmechaniker",
 					"Kommandant Freiwillige Feuerwehr"
@@ -277,6 +298,7 @@
 				"gender": "m",
 				"birthyear": 1958,
 				"district": "Stadeln",
+				"image": "121.jpg",
 				"jobs": [
 					"Softwarereferent"
 				]
@@ -288,6 +310,8 @@
 				"surname": "Hofmann",
 				"gender": "m",
 				"birthyear": 1994,
+				"image": "122.jpg",
+				"webpage": "https://fue2020.de/unsere-kandidaten/michael-hofmann",
 				"jobs": [
 					"Kaufmann für Büromanagement"
 				]
@@ -301,6 +325,7 @@
 				"gender": "w",
 				"birthyear": 1977,
 				"district": "Stadeln",
+				"image": "123.jpg",
 				"titels": [
 					"Dr."
 				],
@@ -315,6 +340,7 @@
 				"surname": "Middendorf",
 				"gender": "m",
 				"birthyear": 1981,
+				"image": "124.jpg",
 				"jobs": [
 					"Dipl.-Forsting. (Univ.)",
 					"Vertriebsbeauftragter"
@@ -327,6 +353,7 @@
 				"surname": "Kuhn-Otte",
 				"gender": "w",
 				"birthyear": 1965,
+				"image": "125.jpg",
 				"jobs": [
 					"Volljuristin"
 				]
@@ -338,6 +365,7 @@
 				"surname": "Bühn",
 				"gender": "m",
 				"birthyear": 1947,
+				"image": "126.jpg",
 				"jobs": [
 					"Verkehrsfachwirt"
 				]
@@ -349,6 +377,8 @@
 				"surname": "Szablyar",
 				"gender": "m",
 				"birthyear": 1994,
+				"image": "127.jpg",
+				"webpage": "https://fue2020.de/unsere-kandidaten/thomas-szablyar",
 				"jobs": [
 					"Student"
 				]
@@ -360,6 +390,8 @@
 				"surname": "Oeser",
 				"gender": "m",
 				"birthyear": 2000,
+				"image": "128.jpg",
+				"webpage": "https://fue2020.de/unsere-kandidaten/samuel-oeser",
 				"jobs": [
 					"Auszubildender"
 				]
@@ -371,6 +403,7 @@
 				"surname": "Erdmannsdörfer",
 				"gender": "w",
 				"birthyear": 1957,
+				"image": "129.jpg",
 				"jobs": [
 					"Systemanalytikerin"
 				]
@@ -382,6 +415,7 @@
 				"surname": "Pausch",
 				"gender": "m",
 				"birthyear": 1984,
+				"image": "130.jpg",
 				"jobs": [
 					"Beamter"
 				]
@@ -394,6 +428,7 @@
 				"gender": "m",
 				"birthyear": 1972,
 				"district": "Stadeln",
+				"image": "131.jpg",
 				"jobs": [
 					"selbständig"
 				]
@@ -406,6 +441,7 @@
 				"gender": "m",
 				"birthyear": 1940,
 				"district": "Burgfarrnbach",
+				"image": "132.jpg",
 				"jobs": [
 					"Erster Kriminalhauptkommissar a.D.",
 					"Stadtratsmitglied"
@@ -418,6 +454,7 @@
 				"surname": "Jochum",
 				"gender": "m",
 				"birthyear": 1966,
+				"image": "133.jpg",
 				"jobs": [
 					"Geschäftsführer"
 				]
@@ -430,6 +467,7 @@
 				"gender": "m",
 				"birthyear": 1968,
 				"district": "Vach",
+				"image": "134.jpg",
 				"jobs": [
 					"staatl. gepr. Maschinenbautechniker"
 				]
@@ -441,6 +479,7 @@
 				"surname": "Schmitzer",
 				"gender": "w",
 				"birthyear": 1983,
+				"image": "135.jpg",
 				"jobs": [
 					"Verwaltungsbeamtin"
 				]
@@ -452,6 +491,7 @@
 				"surname": "Kaiser",
 				"gender": "m",
 				"birthyear": 1971,
+				"image": "136.jpg",
 				"jobs": [
 					"B.A.",
 					"Sozialpädagoge"
@@ -465,6 +505,7 @@
 				"gender": "w",
 				"birthyear": 1977,
 				"district": "Dambach",
+				"image": "137.jpg",
 				"jobs": [
 					"Diplom-Kauffrau"
 				]
@@ -478,6 +519,7 @@
 				"gender": "m",
 				"birthyear": 1977,
 				"district": "Vach",
+				"image": "138.jpg",
 				"titels": [
 					"Dr."
 				],
@@ -493,6 +535,7 @@
 				"gender": "w",
 				"birthyear": 1965,
 				"district": "Burgfarrnbach",
+				"image": "139.jpg",
 				"jobs": [
 					"Rechtsanwältin"
 				]
@@ -505,6 +548,7 @@
 				"gender": "m",
 				"birthyear": 1954,
 				"district": "Poppenreuth",
+				"image": "140.jpg",
 				"jobs": [
 					"Fahrlehrer"
 				]
@@ -516,6 +560,7 @@
 				"surname": "Krause-Teichgräber",
 				"gender": "m",
 				"birthyear": 1954,
+				"image": "141.jpg",
 				"jobs": [
 					"Senior Account Managerin"
 				]
@@ -528,6 +573,7 @@
 				"gender": "w",
 				"birthyear": 1973,
 				"district": "Burgfarrnbach",
+				"image": "142.jpg",
 				"jobs": [
 					"Dipl.-Grafikdesignerin",
 					"Fotografin"
@@ -540,6 +586,7 @@
 				"surname": "Rudisch",
 				"gender": "w",
 				"birthyear": 1946,
+				"image": "143.jpg",
 				"jobs": [
 					"Rentnerin"
 				]
@@ -551,6 +598,7 @@
 				"surname": "Hildebrandt",
 				"gender": "w",
 				"birthyear": 1972,
+				"image": "144.jpg",
 				"jobs": [
 					"Reiseverkehrskauffrau"
 				]
@@ -563,6 +611,7 @@
 				"gender": "w",
 				"birthyear": 1979,
 				"district": "Stadeln",
+				"image": "145.jpg",
 				"jobs": [
 					"selbständiger Schausteller"
 				]
@@ -574,6 +623,7 @@
 				"surname": "Scheuerer",
 				"gender": "m",
 				"birthyear": 1949,
+				"image": "146.jpg",
 				"jobs": [
 					"Elektromeister"
 				]
@@ -585,6 +635,7 @@
 				"surname": "Beiling",
 				"gender": "m",
 				"birthyear": 1943,
+				"image": "147.jpg",
 				"jobs": [
 					"Rentnerin"
 				]
@@ -596,6 +647,8 @@
 				"surname": "Otte",
 				"gender": "m",
 				"birthyear": 2000,
+				"image": "148.jpg",
+				"webpage": "https://fue2020.de/unsere-kandidaten/kirsten-otte",
 				"jobs": [
 					"Studentin"
 				]
@@ -608,6 +661,7 @@
 				"gender": "w",
 				"birthyear": 1988,
 				"district": "Vach",
+				"image": "149.jpg",
 				"jobs": [
 					"Verwaltungsfachangestellter"
 				]
@@ -619,6 +673,8 @@
 				"surname": "Helgert",
 				"gender": "w",
 				"birthyear": 2001,
+				"image": "150.jpg",
+				"webpage": "https://fue2020.de/unsere-kandidaten/lavinia-helgert",
 				"jobs": [
 					"Studentin"
 				]
@@ -1271,7 +1327,7 @@
 				"surname": "Berthold",
 				"gender": "m",
 				"birthyear": 1949,
-				"image": "246.jpg",
+				"image": "246.png",
 				"webpage": "https://www.gruene-fuerth.de/person/lothar-berthold/",
 				"jobs": [
 					"Verleger",
@@ -1354,6 +1410,9 @@
 				"surname": "Lau",
 				"gender": "w",
 				"birthyear": 1954,
+				"district": "Hardhöhe",
+				"image": "301.jpg",
+				"webpage": "https://www.fw-fuerth.de/kandidaten/kandidat-01-lau-heidi/",
 				"jobs": [
 					"Realschullehrerin",
 					"Stadtratsmitglied"
@@ -1366,6 +1425,9 @@
 				"surname": "Fulde",
 				"gender": "m",
 				"birthyear": 1948,
+				"district": "Dambach",
+				"image": "302.jpg",
+				"webpage": "https://www.fw-fuerth.de/kandidaten/kandidat-02-fulde-joachim/",
 				"jobs": [
 					"Betreuungsassistent"
 				]
