@@ -6,6 +6,7 @@ export interface List {
   partei: {
     kurzform: string;
     langform?: string;
+    farbe?: string;
     homepage?: string;
     logo?: string;
   };

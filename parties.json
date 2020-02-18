@@ -1,0 +1,3632 @@
+[
+	{
+		"nummer": "1",
+		"partei": {
+			"kurzform": "CSU",
+			"langform": "Christlich-Soziale Union in Bayern e.V.",
+			"farbe": "#0C87D1",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Christlich-Soziale_Union_%28CSU%29%2C_logo_ab_2016.svg"
+		},
+		"kandidaten": [
+			{
+				"position": 1,
+				"weight": 1,
+				"forename": "Dietmar",
+				"surname": "Helm",
+				"gender": "m",
+				"birthyear": 1968,
+				"district": "Burgfarrnbach",
+				"jobs": [
+					"Landwirtschaftsmeister",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 2,
+				"weight": 1,
+				"forename": "Birgit",
+				"surname": "Bayer-Tersch",
+				"gender": "w",
+				"birthyear": 1961,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Dipl.-Betriebsw. (FH)",
+					"Geschäftsführerin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 3,
+				"weight": 1,
+				"forename": "Maximilian",
+				"surname": "Ammon",
+				"gender": "m",
+				"birthyear": 1953,
+				"district": "Burgfarrnbach",
+				"jobs": [
+					"Metzgermeister",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 4,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Andrea",
+				"surname": "Heilmaier",
+				"gender": "w",
+				"birthyear": 1978,
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Richterin am Amtsgericht",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 5,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Joachim",
+				"surname": "Schmidt",
+				"gender": "m",
+				"birthyear": 1953,
+				"district": "Ronhof",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Arzt",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 6,
+				"weight": 1,
+				"forename": "Angelika",
+				"surname": "Ledenko",
+				"gender": "w",
+				"birthyear": 1955,
+				"district": "Sack",
+				"jobs": [
+					"Heilpraktikerin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 7,
+				"weight": 1,
+				"forename": "Peter",
+				"surname": "Brückner",
+				"gender": "m",
+				"birthyear": 1967,
+				"district": "Dambach",
+				"jobs": [
+					"selbständiger Kaufmann"
+				]
+			},
+			{
+				"position": 8,
+				"weight": 1,
+				"forename": "Ronald",
+				"surname": "Morawski",
+				"gender": "m",
+				"birthyear": 1959,
+				"district": "Stadeln",
+				"jobs": [
+					"selbständiger Schausteller",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 9,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Karin",
+				"surname": "Falkenberg-Pellengahr",
+				"nobel": "Frfr. v. Freusberg-Steinhorst",
+				"gender": "w",
+				"birthyear": 1969,
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Spielzeugsmuseumsleiterin"
+				]
+			},
+			{
+				"position": 10,
+				"weight": 1,
+				"forename": "Christian",
+				"surname": "Brunner",
+				"gender": "m",
+				"birthyear": 1995,
+				"jobs": [
+					"B.A.",
+					"Student"
+				]
+			},
+			{
+				"position": 11,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Michael",
+				"surname": "Au",
+				"gender": "m",
+				"birthyear": 1970,
+				"district": "Oberfürberg",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Dr. jur.",
+					"Rechtsanwalt",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 12,
+				"weight": 1,
+				"forename": "Michael",
+				"surname": "Helgert",
+				"gender": "m",
+				"birthyear": 1964,
+				"jobs": [
+					"selbständiger Elektro-Handwerksmeister"
+				]
+			},
+			{
+				"position": 13,
+				"weight": 1,
+				"forename": "Michaela",
+				"surname": "Partheimüller",
+				"gender": "w",
+				"birthyear": 1976,
+				"district": "Stadeln",
+				"jobs": [
+					"Geschäftsführerin"
+				]
+			},
+			{
+				"position": 14,
+				"weight": 1,
+				"forename": "Wolfgang",
+				"surname": "König",
+				"gender": "m",
+				"birthyear": 1958,
+				"district": "Dambach",
+				"jobs": [
+					"selbständig"
+				]
+			},
+			{
+				"position": 15,
+				"weight": 1,
+				"forename": "Peter",
+				"surname": "Pfann",
+				"gender": "m",
+				"birthyear": 1943,
+				"jobs": [
+					"Landwirt",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 16,
+				"weight": 1,
+				"forename": "Thomas",
+				"surname": "Blösel",
+				"gender": "m",
+				"birthyear": 1962,
+				"jobs": [
+					"Kaufmann Medizintechnik"
+				]
+			},
+			{
+				"position": 17,
+				"weight": 1,
+				"forename": "Andreas",
+				"surname": "Kachelrieß",
+				"gender": "m",
+				"birthyear": 1972,
+				"jobs": [
+					"Fliesenlegermeister"
+				]
+			},
+			{
+				"position": 18,
+				"weight": 1,
+				"forename": "Simone",
+				"surname": "Wenning",
+				"gender": "w",
+				"birthyear": 1977,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Modedesignerin"
+				]
+			},
+			{
+				"position": 19,
+				"weight": 1,
+				"forename": "Sigrid",
+				"surname": "Ziegelmeir",
+				"gender": "w",
+				"birthyear": 1955,
+				"jobs": [
+					"Gymnasiallehrerin"
+				]
+			},
+			{
+				"position": 20,
+				"weight": 1,
+				"forename": "Stephan",
+				"surname": "Scheuerer",
+				"gender": "m",
+				"birthyear": 1969,
+				"jobs": [
+					"Anlagenmechaniker",
+					"Kommandant Freiwillige Feuerwehr"
+				]
+			},
+			{
+				"position": 21,
+				"weight": 1,
+				"forename": "Günter",
+				"surname": "Kahl",
+				"gender": "m",
+				"birthyear": 1958,
+				"district": "Stadeln",
+				"jobs": [
+					"Softwarereferent"
+				]
+			},
+			{
+				"position": 22,
+				"weight": 1,
+				"forename": "Michael",
+				"surname": "Hofmann",
+				"gender": "m",
+				"birthyear": 1994,
+				"jobs": [
+					"Kaufmann für Büromanagement"
+				]
+			},
+			{
+				"position": 23,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Alexandra",
+				"surname": "Latteier",
+				"gender": "w",
+				"birthyear": 1977,
+				"district": "Stadeln",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Geschäftsführerin"
+				]
+			},
+			{
+				"position": 24,
+				"weight": 1,
+				"forename": "Robert",
+				"surname": "Middendorf",
+				"gender": "m",
+				"birthyear": 1981,
+				"jobs": [
+					"Dipl.-Forsting. (Univ.)",
+					"Vertriebsbeauftragter"
+				]
+			},
+			{
+				"position": 25,
+				"weight": 1,
+				"forename": "Claudia",
+				"surname": "Kuhn-Otte",
+				"gender": "w",
+				"birthyear": 1965,
+				"jobs": [
+					"Volljuristin"
+				]
+			},
+			{
+				"position": 26,
+				"weight": 1,
+				"forename": "Hans-Jürgen",
+				"surname": "Bühn",
+				"gender": "m",
+				"birthyear": 1947,
+				"jobs": [
+					"Verkehrsfachwirt"
+				]
+			},
+			{
+				"position": 27,
+				"weight": 1,
+				"forename": "Thomas",
+				"surname": "Szablyar",
+				"gender": "m",
+				"birthyear": 1994,
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 28,
+				"weight": 1,
+				"forename": "Samuel",
+				"surname": "Oeser",
+				"gender": "m",
+				"birthyear": 2000,
+				"jobs": [
+					"Auszubildender"
+				]
+			},
+			{
+				"position": 29,
+				"weight": 1,
+				"forename": "Susanne",
+				"surname": "Erdmannsdörfer",
+				"gender": "w",
+				"birthyear": 1957,
+				"jobs": [
+					"Systemanalytikerin"
+				]
+			},
+			{
+				"position": 30,
+				"weight": 1,
+				"forename": "Dominik",
+				"surname": "Pausch",
+				"gender": "m",
+				"birthyear": 1984,
+				"jobs": [
+					"Beamter"
+				]
+			},
+			{
+				"position": 31,
+				"weight": 1,
+				"forename": "Thomas",
+				"surname": "Winning",
+				"gender": "m",
+				"birthyear": 1972,
+				"district": "Stadeln",
+				"jobs": [
+					"selbständig"
+				]
+			},
+			{
+				"position": 32,
+				"weight": 1,
+				"forename": "Franz",
+				"surname": "Stich",
+				"gender": "m",
+				"birthyear": 1940,
+				"district": "Burgfarrnbach",
+				"jobs": [
+					"Erster Kriminalhauptkommissar a.D.",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 33,
+				"weight": 1,
+				"forename": "Peter",
+				"surname": "Jochum",
+				"gender": "m",
+				"birthyear": 1966,
+				"jobs": [
+					"Geschäftsführer"
+				]
+			},
+			{
+				"position": 34,
+				"weight": 1,
+				"forename": "Norbert",
+				"surname": "Hofmann",
+				"gender": "m",
+				"birthyear": 1968,
+				"district": "Vach",
+				"jobs": [
+					"staatl. gepr. Maschinenbautechniker"
+				]
+			},
+			{
+				"position": 35,
+				"weight": 1,
+				"forename": "Yvonne",
+				"surname": "Schmitzer",
+				"gender": "w",
+				"birthyear": 1983,
+				"jobs": [
+					"Verwaltungsbeamtin"
+				]
+			},
+			{
+				"position": 36,
+				"weight": 1,
+				"forename": "Johannes",
+				"surname": "Kaiser",
+				"gender": "m",
+				"birthyear": 1971,
+				"jobs": [
+					"B.A.",
+					"Sozialpädagoge"
+				]
+			},
+			{
+				"position": 37,
+				"weight": 1,
+				"forename": "Anna",
+				"surname": "Torres",
+				"gender": "w",
+				"birthyear": 1977,
+				"district": "Dambach",
+				"jobs": [
+					"Diplom-Kauffrau"
+				]
+			},
+			{
+				"position": 38,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Edgar",
+				"surname": "Zaus",
+				"gender": "m",
+				"birthyear": 1977,
+				"district": "Vach",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Patentingenieur"
+				]
+			},
+			{
+				"position": 39,
+				"weight": 1,
+				"forename": "Petra",
+				"surname": "Leibinger",
+				"gender": "w",
+				"birthyear": 1965,
+				"district": "Burgfarrnbach",
+				"jobs": [
+					"Rechtsanwältin"
+				]
+			},
+			{
+				"position": 40,
+				"weight": 1,
+				"forename": "Fred",
+				"surname": "Jäger",
+				"gender": "m",
+				"birthyear": 1954,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Fahrlehrer"
+				]
+			},
+			{
+				"position": 41,
+				"weight": 1,
+				"forename": "Marlise",
+				"surname": "Krause-Teichgräber",
+				"gender": "m",
+				"birthyear": 1954,
+				"jobs": [
+					"Senior Account Managerin"
+				]
+			},
+			{
+				"position": 42,
+				"weight": 1,
+				"forename": "Alexandra",
+				"surname": "Klaus",
+				"gender": "w",
+				"birthyear": 1973,
+				"district": "Burgfarrnbach",
+				"jobs": [
+					"Dipl.-Grafikdesignerin",
+					"Fotografin"
+				]
+			},
+			{
+				"position": 43,
+				"weight": 1,
+				"forename": "Petra",
+				"surname": "Rudisch",
+				"gender": "w",
+				"birthyear": 1946,
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 44,
+				"weight": 1,
+				"forename": "Andrea",
+				"surname": "Hildebrandt",
+				"gender": "w",
+				"birthyear": 1972,
+				"jobs": [
+					"Reiseverkehrskauffrau"
+				]
+			},
+			{
+				"position": 45,
+				"weight": 1,
+				"forename": "Denny",
+				"surname": "Morawski",
+				"gender": "w",
+				"birthyear": 1979,
+				"district": "Stadeln",
+				"jobs": [
+					"selbständiger Schausteller"
+				]
+			},
+			{
+				"position": 46,
+				"weight": 1,
+				"forename": "Adalbert",
+				"surname": "Scheuerer",
+				"gender": "m",
+				"birthyear": 1949,
+				"jobs": [
+					"Elektromeister"
+				]
+			},
+			{
+				"position": 47,
+				"weight": 1,
+				"forename": "Erika",
+				"surname": "Beiling",
+				"gender": "m",
+				"birthyear": 1943,
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 48,
+				"weight": 1,
+				"forename": "Kirsten",
+				"surname": "Otte",
+				"gender": "m",
+				"birthyear": 2000,
+				"jobs": [
+					"Studentin"
+				]
+			},
+			{
+				"position": 49,
+				"weight": 1,
+				"forename": "Marcus",
+				"surname": "Weier",
+				"gender": "w",
+				"birthyear": 1988,
+				"district": "Vach",
+				"jobs": [
+					"Verwaltungsfachangestellter"
+				]
+			},
+			{
+				"position": 50,
+				"weight": 1,
+				"forename": "Lavinia",
+				"surname": "Helgert",
+				"gender": "w",
+				"birthyear": 2001,
+				"jobs": [
+					"Studentin"
+				]
+			}
+		]
+	},
+	{
+		"nummer": "2",
+		"partei": {
+			"kurzform": "GRÜNE",
+			"langform": "BÜNDNIS 90/DIE GRÜNEN",
+			"farbe": "#1FA15D",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo.svg"
+		},
+		"kandidaten": [
+			{
+				"position": 1,
+				"weight": 1,
+				"forename": "Gabriele",
+				"surname": "Zapf",
+				"gender": "w",
+				"birthyear": 1957,
+				"image": "201.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/gabriele-zapf/",
+				"facebook": "https://www.facebook.com/gabriele.zapf.3",
+				"jobs": [
+					"Diplom Betriebswirtin"
+				]
+			},
+			{
+				"position": 2,
+				"weight": 1,
+				"forename": "Kamran",
+				"surname": "Salimi",
+				"gender": "m",
+				"birthyear": 1969,
+				"image": "202.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/kamran-salimi/",
+				"jobs": [
+					"Krankenpfleger",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 3,
+				"weight": 1,
+				"forename": "Sabine",
+				"surname": "Weber-Thumulla",
+				"gender": "w",
+				"birthyear": 1968,
+				"image": "203.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/sabine-weber-thumulla/",
+				"jobs": [
+					"M.A.",
+					"Kaufmännische Geschäftsleiterin"
+				]
+			},
+			{
+				"position": 4,
+				"weight": 1,
+				"forename": "Harald",
+				"surname": "Riedel",
+				"gender": "m",
+				"birthyear": 1967,
+				"district": "Vach",
+				"image": "204.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/harald-riedel/",
+				"jobs": [
+					"Umweltberater",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 5,
+				"weight": 1,
+				"forename": "Anna",
+				"surname": "Botzenhardt",
+				"gender": "w",
+				"birthyear": 2000,
+				"image": "205.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/anna-botzenhardt/",
+				"jobs": [
+					"Studentin"
+				]
+			},
+			{
+				"position": 6,
+				"weight": 1,
+				"forename": "Philipp",
+				"surname": "Steffen",
+				"gender": "m",
+				"birthyear": 1987,
+				"image": "206.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/philipp-steffen/",
+				"instagram": "https://instagram.com/philomatic",
+				"twitter": "https://twitter.com/phsteffen",
+				"jobs": [
+					"Realschullehrer",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 7,
+				"weight": 1,
+				"forename": "Hanne",
+				"surname": "Wiest",
+				"gender": "w",
+				"birthyear": 1955,
+				"image": "207.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/hanne-wiest/",
+				"jobs": [
+					"KiTA Leitung",
+					"Personalrätin"
+				]
+			},
+			{
+				"position": 8,
+				"weight": 1,
+				"forename": "Christoph",
+				"surname": "Wallnöfer",
+				"gender": "m",
+				"birthyear": 1970,
+				"image": "208.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/christoph-wallnoefer/",
+				"facebook": "https://www.facebook.com/profile.php?id=100008885013283",
+				"instagram": "https://instagram.com/christoph_wallnoefer",
+				"jobs": [
+					"Busfahrer"
+				]
+			},
+			{
+				"position": 9,
+				"weight": 1,
+				"forename": "Theresia",
+				"surname": "Herden",
+				"gender": "w",
+				"birthyear": 1958,
+				"image": "209.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/theresia-herden/",
+				"jobs": [
+					"Lehrerin"
+				]
+			},
+			{
+				"position": 10,
+				"weight": 1,
+				"forename": "Felix",
+				"surname": "Geismann",
+				"gender": "m",
+				"birthyear": 1987,
+				"image": "210.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/felix-geismann/",
+				"facebook": "https://facebook.com/f.geismann",
+				"instagram": "https://instagram.com/flx_gsm",
+				"twitter": "https://twitter.com/geismann",
+				"jobs": [
+					"Gastronom"
+				]
+			},
+			{
+				"position": 11,
+				"weight": 1,
+				"forename": "Dagmar",
+				"surname": "Svoboda",
+				"gender": "w",
+				"birthyear": 1949,
+				"image": "211.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/dagmar-svoboda/",
+				"jobs": [
+					"Einzelhändlerin i.R.",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 12,
+				"weight": 1,
+				"forename": "Tobias",
+				"surname": "Settler",
+				"gender": "m",
+				"birthyear": 1996,
+				"district": "Unterfarrnbach",
+				"image": "212.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/tobias-settler/",
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 13,
+				"weight": 1,
+				"forename": "Waltraud",
+				"surname": "Galaske",
+				"gender": "w",
+				"birthyear": 1949,
+				"district": "Stadeln",
+				"image": "213.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/waltraud-galaske/",
+				"jobs": [
+					"Rentnerin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 14,
+				"weight": 1,
+				"forename": "Manfred",
+				"surname": "Hierdeis",
+				"gender": "m",
+				"birthyear": 1964,
+				"image": "214.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/manfred-hierdeis/",
+				"jobs": [
+					"Anwendungsentwickler"
+				]
+			},
+			{
+				"position": 15,
+				"weight": 1,
+				"forename": "Astrid",
+				"surname": "Reiser",
+				"gender": "w",
+				"birthyear": 1962,
+				"district": "Poppenreuth",
+				"image": "215.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/astrid-reiser/",
+				"jobs": [
+					"selbständige Gymnastiklehrerin"
+				]
+			},
+			{
+				"position": 16,
+				"weight": 1,
+				"forename": "Joachim",
+				"surname": "Metzgen",
+				"gender": "m",
+				"birthyear": 1955,
+				"district": "Unterfarrnbach",
+				"image": "216.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/joachim-metzgen/",
+				"jobs": [
+					"Baudirektor a.D."
+				]
+			},
+			{
+				"position": 17,
+				"weight": 1,
+				"forename": "Caroline",
+				"surname": "Peters",
+				"gender": "w",
+				"birthyear": 1965,
+				"image": "217.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/caroline-peters/",
+				"jobs": [
+					"Sozialbetreuerin",
+					"Behindertenrat"
+				]
+			},
+			{
+				"position": 18,
+				"weight": 1,
+				"forename": "Gerd",
+				"surname": "Endres",
+				"gender": "m",
+				"birthyear": 1970,
+				"district": "Burgfarrnbach",
+				"image": "218.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/gerd-endres/",
+				"jobs": [
+					"Bankfachwirt"
+				]
+			},
+			{
+				"position": 19,
+				"weight": 1,
+				"forename": "Judith-Xenia",
+				"surname": "Hasenschwanz",
+				"gender": "w",
+				"birthyear": 1969,
+				"image": "219.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/xenia-hasenschwanz/",
+				"jobs": [
+					"Hebamme"
+				]
+			},
+			{
+				"position": 20,
+				"weight": 1,
+				"forename": "Leon",
+				"surname": "Dudek",
+				"gender": "m",
+				"birthyear": 1999,
+				"image": "220.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/leon-dudek/",
+				"jobs": [
+					"Schüler"
+				]
+			},
+			{
+				"position": 21,
+				"weight": 1,
+				"forename": "Anne",
+				"surname": "Braun",
+				"gender": "w",
+				"birthyear": 1985,
+				"image": "221.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/ann-christin-braun/",
+				"jobs": [
+					"Digital Health Manager"
+				]
+			},
+			{
+				"position": 22,
+				"weight": 1,
+				"forename": "Alexander",
+				"surname": "Wunschik",
+				"gender": "m",
+				"birthyear": 1980,
+				"image": "222.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/person-alexander-wunschik/",
+				"twitter": "https://twitter.com/wunschik",
+				"jobs": [
+					"Software-Entwickler"
+				]
+			},
+			{
+				"position": 23,
+				"weight": 1,
+				"forename": "Annette",
+				"surname": "Gebhardt",
+				"gender": "w",
+				"birthyear": 1966,
+				"image": "223.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/annette-gebhardt/",
+				"jobs": [
+					"Stadtführerin"
+				]
+			},
+			{
+				"position": 24,
+				"weight": 1,
+				"forename": "Thibaud",
+				"surname": "Stenger",
+				"gender": "m",
+				"birthyear": 1971,
+				"image": "224.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/thibaud-stenger/",
+				"jobs": [
+					"Diplom-Geograph"
+				]
+			},
+			{
+				"position": 25,
+				"weight": 1,
+				"forename": "Rotraut",
+				"surname": "Grashey",
+				"gender": "w",
+				"birthyear": 1937,
+				"district": "Stadeln",
+				"image": "225.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/rotraut-grashey/",
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 26,
+				"weight": 1,
+				"forename": "Werner",
+				"surname": "Jungesblut",
+				"gender": "m",
+				"birthyear": 1961,
+				"image": "226.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/werner-jungesblut/",
+				"jobs": [
+					"Dipl.-Soz.päd.",
+					"Sozialarbeiter"
+				]
+			},
+			{
+				"position": 27,
+				"weight": 1,
+				"forename": "Andrea",
+				"surname": "Jungesblut",
+				"gender": "w",
+				"birthyear": 1966,
+				"image": "227.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/andrea-vogel/",
+				"jobs": [
+					"Diplom-Mineralogin"
+				]
+			},
+			{
+				"position": 28,
+				"weight": 1,
+				"forename": "Patrick",
+				"surname": "Hohmann",
+				"gender": "m",
+				"birthyear": 1984,
+				"image": "228.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/patrick-hohmann/",
+				"jobs": [
+					"Key Account Manager"
+				]
+			},
+			{
+				"position": 29,
+				"weight": 1,
+				"forename": "Michaela",
+				"surname": "Dobner",
+				"gender": "w",
+				"birthyear": 1972,
+				"image": "229.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/michaela-dobner/",
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 30,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Bernhard",
+				"surname": "Heeren",
+				"gender": "m",
+				"birthyear": 1955,
+				"district": "Dambach",
+				"image": "230.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/bernhard-heeren/",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Kinder- und Jugendarzt"
+				]
+			},
+			{
+				"position": 31,
+				"weight": 1,
+				"forename": "Ulrike",
+				"surname": "Wagenhäuser",
+				"gender": "w",
+				"birthyear": 1971,
+				"image": "231.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/ulrike-wagenhaeuser/",
+				"jobs": [
+					"Lehrerin"
+				]
+			},
+			{
+				"position": 32,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Stuart",
+				"surname": "Jenks",
+				"gender": "m",
+				"birthyear": 1948,
+				"district": "Vach",
+				"image": "232.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/dr-stuart-jenks/",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Dr. phil. habil.",
+					"Universitätsprofessor"
+				]
+			},
+			{
+				"position": 33,
+				"weight": 1,
+				"forename": "Eva",
+				"surname": "Grashey",
+				"gender": "w",
+				"birthyear": 1967,
+				"image": "233.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/eva-grashey/",
+				"jobs": [
+					"Pferdewirtin"
+				]
+			},
+			{
+				"position": 34,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Alexander",
+				"surname": "Mayer",
+				"gender": "m",
+				"birthyear": 1960,
+				"image": "234.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/dr-alexander-mayer/",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Publizist"
+				]
+			},
+			{
+				"position": 35,
+				"weight": 1,
+				"forename": "Ariane",
+				"surname": "Wilkin",
+				"gender": "w",
+				"birthyear": 1988,
+				"district": "Ronhof",
+				"image": "235.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/ariane-wilkin/",
+				"jobs": [
+					"Studentin"
+				]
+			},
+			{
+				"position": 36,
+				"weight": 1,
+				"forename": "Florian",
+				"surname": "Braunreuther",
+				"gender": "m",
+				"birthyear": 1981,
+				"image": "236.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/florian-braunreuther/",
+				"jobs": [
+					"Wissenschaftlicher Mitarbeiter"
+				]
+			},
+			{
+				"position": 37,
+				"weight": 1,
+				"forename": "Lisa",
+				"surname": "Pohl",
+				"gender": "w",
+				"birthyear": 1985,
+				"district": "Dambach",
+				"image": "237.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/lisa-pohl/",
+				"jobs": [
+					"Studienrätin am Gymnasium"
+				]
+			},
+			{
+				"position": 38,
+				"weight": 1,
+				"forename": "Urs",
+				"surname": "Taube",
+				"gender": "m",
+				"birthyear": 1964,
+				"district": "Unterfarrnbach",
+				"image": "238.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/urs-taube/",
+				"jobs": [
+					"Rechtsanwalt"
+				]
+			},
+			{
+				"position": 39,
+				"weight": 1,
+				"forename": "Lydia",
+				"surname": "Bauer-Hechler",
+				"gender": "w",
+				"birthyear": 1954,
+				"district": "Burgfarrnbach",
+				"image": "239.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/lydia-bauer-hechler/",
+				"jobs": [
+					"Sozialpädagogin i.R.",
+					"Bezirksrätin"
+				]
+			},
+			{
+				"position": 40,
+				"weight": 1,
+				"forename": "Jonas",
+				"surname": "Opitz",
+				"gender": "m",
+				"birthyear": 1998,
+				"image": "240.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/jonas-opitz/",
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 41,
+				"weight": 1,
+				"forename": "Annette",
+				"surname": "von Heissen",
+				"gender": "w",
+				"birthyear": 1969,
+				"image": "241.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/annette-von-heissen/",
+				"jobs": [
+					"Krankenschwester"
+				]
+			},
+			{
+				"position": 42,
+				"weight": 1,
+				"forename": "Michael",
+				"surname": "Zwiener",
+				"gender": "m",
+				"birthyear": 1972,
+				"image": "242.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/michael-zwiener/",
+				"jobs": [
+					"Teamassistent"
+				]
+			},
+			{
+				"position": 43,
+				"weight": 1,
+				"forename": "Elke",
+				"surname": "Heinemann",
+				"gender": "w",
+				"birthyear": 1963,
+				"image": "243.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/elke-heinemann/",
+				"jobs": [
+					"Reiseveranstalterin"
+				]
+			},
+			{
+				"position": 44,
+				"weight": 1,
+				"forename": "Jörg",
+				"surname": "Thumulla",
+				"gender": "m",
+				"birthyear": 1966,
+				"image": "244.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/joerg-thumulla/",
+				"jobs": [
+					"Dipl.-Chemiker"
+				]
+			},
+			{
+				"position": 45,
+				"weight": 1,
+				"forename": "Franziska",
+				"surname": "Caesar",
+				"gender": "w",
+				"birthyear": 1989,
+				"image": "245.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/franziska-caesar/",
+				"jobs": [
+					"Texterin"
+				]
+			},
+			{
+				"position": 46,
+				"weight": 1,
+				"forename": "Lothar",
+				"surname": "Berthold",
+				"gender": "m",
+				"birthyear": 1949,
+				"image": "246.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/lothar-berthold/",
+				"jobs": [
+					"Verleger",
+					"Stellvertretender Stadtheimatpfleger"
+				]
+			},
+			{
+				"position": 47,
+				"weight": 1,
+				"forename": "Andrea",
+				"surname": "Gerhard",
+				"gender": "w",
+				"birthyear": 1960,
+				"image": "247.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/andrea-gerhard/",
+				"jobs": [
+					"Diplom-Sozialpädagogin"
+				]
+			},
+			{
+				"position": 48,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Thomas",
+				"surname": "Foerster",
+				"gender": "m",
+				"birthyear": 1946,
+				"image": "248.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/dr-thomas-foerster/",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Rechtsanwalt"
+				]
+			},
+			{
+				"position": 49,
+				"weight": 1,
+				"forename": "Rita",
+				"surname": "Micu",
+				"gender": "w",
+				"birthyear": 1960,
+				"image": "249.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/rita-micu/",
+				"jobs": [
+					"Diplom-Betriebswirtin"
+				]
+			},
+			{
+				"position": 50,
+				"weight": 1,
+				"forename": "Eckart",
+				"surname": "Reinl-Mehl",
+				"gender": "m",
+				"birthyear": 1953,
+				"district": "Ronhof",
+				"image": "250.jpg",
+				"webpage": "https://www.gruene-fuerth.de/person/eckart-reinl-mehl/",
+				"jobs": [
+					"Dipl.-Soz.päd.",
+					"Rentner"
+				]
+			}
+		]
+	},
+	{
+		"nummer": "3",
+		"partei": {
+			"kurzform": "FREIE WÄHLER",
+			"langform": "FREIE WÄHLER Bayern",
+			"farbe": "#FF8C00",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_Freie_W%C3%A4hler_Bayern.png"
+		},
+		"kandidaten": [
+			{
+				"position": 1,
+				"weight": 1,
+				"forename": "Heidi",
+				"surname": "Lau",
+				"gender": "w",
+				"birthyear": 1954,
+				"jobs": [
+					"Realschullehrerin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 2,
+				"weight": 1,
+				"forename": "Joachim",
+				"surname": "Fulde",
+				"gender": "m",
+				"birthyear": 1948,
+				"jobs": [
+					"Betreuungsassistent"
+				]
+			},
+			{
+				"position": 3,
+				"weight": 1,
+				"forename": "Christina",
+				"surname": "John",
+				"gender": "w",
+				"birthyear": 1981,
+				"jobs": [
+					"Stellv. Berufsschulleitung"
+				]
+			},
+			{
+				"position": 4,
+				"weight": 1,
+				"forename": "Oswald",
+				"surname": "Schuh",
+				"gender": "m",
+				"birthyear": 1955,
+				"jobs": [
+					"Industriefachwirt"
+				]
+			},
+			{
+				"position": 5,
+				"weight": 1,
+				"forename": "Beate",
+				"surname": "Koch",
+				"gender": "w",
+				"birthyear": 1970,
+				"jobs": [
+					"Betriebswirtin VWA"
+				]
+			},
+			{
+				"position": 6,
+				"weight": 1,
+				"forename": "Georg",
+				"surname": "Rosner",
+				"gender": "m",
+				"birthyear": 1970,
+				"jobs": [
+					"MaHM",
+					"Gesundheitsmanager"
+				]
+			},
+			{
+				"position": 7,
+				"weight": 1,
+				"forename": "Nina",
+				"surname": "Bösel",
+				"gender": "w",
+				"birthyear": 1980,
+				"jobs": [
+					"Einzelhandelskauffrau"
+				]
+			},
+			{
+				"position": 8,
+				"weight": 1,
+				"forename": "Georg",
+				"surname": "Knorr",
+				"gender": "m",
+				"birthyear": 1961,
+				"jobs": [
+					"Landwirt",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 9,
+				"weight": 1,
+				"forename": "Martina",
+				"surname": "Lau",
+				"gender": "w",
+				"birthyear": 1984,
+				"jobs": [
+					"Altenpflegerin"
+				]
+			},
+			{
+				"position": 10,
+				"weight": 1,
+				"forename": "Alexander",
+				"surname": "Beck",
+				"gender": "m",
+				"birthyear": 1976,
+				"jobs": [
+					"IT-Administrator"
+				]
+			},
+			{
+				"position": 11,
+				"weight": 1,
+				"forename": "Marlen",
+				"surname": "Knorr",
+				"gender": "w",
+				"birthyear": 1996,
+				"jobs": [
+					"Erzieherin"
+				]
+			},
+			{
+				"position": 12,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Otfried",
+				"surname": "Bihler",
+				"gender": "m",
+				"birthyear": 1951,
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Lehrer"
+				]
+			},
+			{
+				"position": 13,
+				"weight": 1,
+				"forename": "Margit",
+				"surname": "Hoess",
+				"gender": "w",
+				"birthyear": 1949,
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 14,
+				"weight": 1,
+				"forename": "Daniel",
+				"surname": "Meredith",
+				"gender": "m",
+				"birthyear": 1984,
+				"jobs": [
+					"Personalreferent"
+				]
+			},
+			{
+				"position": 15,
+				"weight": 1,
+				"forename": "Elfriede",
+				"surname": "Persdorf",
+				"gender": "w",
+				"birthyear": 1961,
+				"jobs": [
+					"Reinigungsfachkraft"
+				]
+			},
+			{
+				"position": 16,
+				"weight": 1,
+				"forename": "Etienne",
+				"surname": "Pfannes",
+				"gender": "m",
+				"birthyear": 1995,
+				"jobs": [
+					"Auszubildender zum Physiotherapeuten"
+				]
+			},
+			{
+				"position": 17,
+				"weight": 1,
+				"forename": "Isabell",
+				"surname": "Steger",
+				"gender": "w",
+				"birthyear": 2000,
+				"jobs": [
+					"Studentin"
+				]
+			},
+			{
+				"position": 18,
+				"weight": 1,
+				"forename": "Edmund",
+				"surname": "Held",
+				"gender": "m",
+				"birthyear": 1932,
+				"jobs": [
+					"Rentner"
+				]
+			},
+			{
+				"position": 19,
+				"weight": 1,
+				"forename": "Manuela",
+				"surname": "Pfannes-Völkel",
+				"gender": "w",
+				"birthyear": 1965,
+				"jobs": [
+					"Parfümistin"
+				]
+			},
+			{
+				"position": 20,
+				"weight": 1,
+				"forename": "Sebastian",
+				"surname": "Wendel",
+				"gender": "m",
+				"birthyear": 1996,
+				"jobs": [
+					"Fachinformatiker"
+				]
+			},
+			{
+				"position": 21,
+				"weight": 1,
+				"forename": "Claudia",
+				"surname": "Laube",
+				"gender": "w",
+				"birthyear": 1964,
+				"jobs": [
+					"Hauswirtschafterin"
+				]
+			},
+			{
+				"position": 22,
+				"weight": 1,
+				"forename": "Georg",
+				"surname": "Rosenbauer",
+				"gender": "m",
+				"birthyear": 1962,
+				"jobs": [
+					"Versicherungsfachmann"
+				]
+			},
+			{
+				"position": 23,
+				"weight": 1,
+				"forename": "Helene",
+				"surname": "Posselt",
+				"gender": "w",
+				"birthyear": 1958,
+				"jobs": [
+					"Bekleidungsnäherin"
+				]
+			},
+			{
+				"position": 24,
+				"weight": 1,
+				"forename": "Kay",
+				"surname": "Bösel",
+				"gender": "m",
+				"birthyear": 1981,
+				"jobs": [
+					"Müllwerker"
+				]
+			},
+			{
+				"position": 25,
+				"weight": 1,
+				"forename": "Christiane",
+				"surname": "Besecke",
+				"gender": "w",
+				"birthyear": 1976,
+				"jobs": [
+					"Krankenschwester"
+				]
+			},
+			{
+				"position": 26,
+				"weight": 1,
+				"forename": "Alois",
+				"surname": "Eberle",
+				"gender": "m",
+				"birthyear": 1959,
+				"jobs": [
+					"Drucker"
+				]
+			},
+			{
+				"position": 27,
+				"weight": 1,
+				"forename": "Daniela",
+				"surname": "Reischl",
+				"gender": "w",
+				"birthyear": 1986,
+				"jobs": [
+					"Verkäuferin"
+				]
+			},
+			{
+				"position": 28,
+				"weight": 1,
+				"forename": "Jürgen",
+				"surname": "Werner",
+				"gender": "m",
+				"birthyear": 1962,
+				"jobs": [
+					"Elektrotechniker"
+				]
+			},
+			{
+				"position": 29,
+				"weight": 1,
+				"forename": "Monika",
+				"surname": "Petereit",
+				"gender": "w",
+				"birthyear": 1947,
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 30,
+				"weight": 1,
+				"forename": "Philipp",
+				"surname": "Rottner",
+				"gender": "m",
+				"birthyear": 1970,
+				"jobs": [
+					"Geschäftsführer"
+				]
+			},
+			{
+				"position": 31,
+				"weight": 1,
+				"forename": "Eleni",
+				"surname": "Georgaki",
+				"gender": "w",
+				"birthyear": 1958,
+				"jobs": [
+					"Laborhelferin"
+				]
+			},
+			{
+				"position": 32,
+				"weight": 1,
+				"forename": "Thang",
+				"surname": "Vo Van",
+				"gender": "m",
+				"birthyear": 1979,
+				"jobs": [
+					"Einkäufer"
+				]
+			},
+			{
+				"position": 33,
+				"weight": 1,
+				"forename": "Miriam",
+				"surname": "Caveness",
+				"gender": "w",
+				"birthyear": 1991,
+				"jobs": [
+					"Hörakustikerin"
+				]
+			},
+			{
+				"position": 34,
+				"weight": 1,
+				"forename": "Antonio",
+				"surname": "Zaccariello",
+				"gender": "m",
+				"birthyear": 1976,
+				"jobs": [
+					"Handelsfachwirt"
+				]
+			},
+			{
+				"position": 35,
+				"weight": 1,
+				"forename": "Katrin",
+				"surname": "Schellenberger",
+				"gender": "w",
+				"birthyear": 1982,
+				"jobs": [
+					"Lehrerin"
+				]
+			},
+			{
+				"position": 36,
+				"weight": 1,
+				"forename": "Peter",
+				"surname": "Posselt",
+				"gender": "m",
+				"birthyear": 1956,
+				"jobs": [
+					"Technischer Angestellter"
+				]
+			},
+			{
+				"position": 37,
+				"weight": 1,
+				"forename": "Daniela",
+				"surname": "Etzel",
+				"gender": "w",
+				"birthyear": 1969,
+				"jobs": [
+					"Hauswirtschafterin"
+				]
+			},
+			{
+				"position": 38,
+				"weight": 1,
+				"forename": "Dimitri",
+				"surname": "Stefos",
+				"gender": "m",
+				"birthyear": 1991,
+				"jobs": [
+					"Fachkraft Metalltechnik"
+				]
+			},
+			{
+				"position": 39,
+				"weight": 1,
+				"forename": "Ruth",
+				"surname": "Bischof",
+				"gender": "w",
+				"birthyear": 1946,
+				"jobs": [
+					"Aushilfslehrerin"
+				]
+			},
+			{
+				"position": 40,
+				"weight": 1,
+				"forename": "Erik",
+				"surname": "Böttcher",
+				"gender": "m",
+				"birthyear": 1983,
+				"jobs": [
+					"Dipl.-Ing. (FH)",
+					"Prüfingenieur"
+				]
+			},
+			{
+				"position": 41,
+				"weight": 1,
+				"forename": "Brigitte",
+				"surname": "Pandel",
+				"gender": "w",
+				"birthyear": 1949,
+				"jobs": [
+					"Tagesmutter"
+				]
+			},
+			{
+				"position": 42,
+				"weight": 1,
+				"forename": "Ronald",
+				"surname": "Zaulig",
+				"gender": "m",
+				"birthyear": 1958,
+				"jobs": [
+					"Rettungsassistent"
+				]
+			},
+			{
+				"position": 43,
+				"weight": 1,
+				"forename": "Doris",
+				"surname": "Kreß",
+				"gender": "w",
+				"birthyear": 1952,
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 44,
+				"weight": 1,
+				"forename": "Daniel",
+				"surname": "Burghart",
+				"gender": "m",
+				"birthyear": 1982,
+				"jobs": [
+					"Realschullehrer"
+				]
+			},
+			{
+				"position": 45,
+				"weight": 1,
+				"forename": "Nathalie",
+				"surname": "Mückel-Memis",
+				"gender": "w",
+				"birthyear": 1976,
+				"jobs": [
+					"Arzthelferin"
+				]
+			},
+			{
+				"position": 46,
+				"weight": 1,
+				"forename": "Kleanthis",
+				"surname": "Barekas",
+				"gender": "m",
+				"birthyear": 1960,
+				"jobs": [
+					"Wohnungsvermieter"
+				]
+			},
+			{
+				"position": 47,
+				"weight": 1,
+				"forename": "Agata",
+				"surname": "Zasada",
+				"gender": "w",
+				"birthyear": 1970,
+				"jobs": [
+					"B.Sc.",
+					"Medizinisch-technische Laborassistentin"
+				]
+			},
+			{
+				"position": 48,
+				"weight": 1,
+				"forename": "Michael",
+				"surname": "Wendel",
+				"gender": "m",
+				"birthyear": 1966,
+				"jobs": [
+					"Bäckermeister"
+				]
+			},
+			{
+				"position": 49,
+				"weight": 1,
+				"forename": "Eva",
+				"surname": "Steger",
+				"gender": "w",
+				"birthyear": 1960,
+				"jobs": [
+					"Abteilungsleiterin"
+				]
+			},
+			{
+				"position": 50,
+				"weight": 1,
+				"forename": "Christa",
+				"surname": "Hermann",
+				"gender": "w",
+				"birthyear": 1953,
+				"jobs": [
+					"Sachbearbeiterin"
+				]
+			}
+		]
+	},
+	{
+		"nummer": "4",
+		"partei": {
+			"kurzform": "AfD",
+			"langform": "Alternative für Deutschland",
+			"farbe": "#8B4513",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/AfD-Logo-2017.svg"
+		},
+		"kandidaten": [
+			{
+				"position": 1,
+				"weight": 3,
+				"forename": "Andreas",
+				"surname": "Haas",
+				"gender": "m",
+				"birthyear": 1969,
+				"district": "Sack",
+				"jobs": [
+					"Dipl.-Inf. (FH)",
+					"Softwareentwickler"
+				]
+			},
+			{
+				"position": 2,
+				"weight": 3,
+				"forename": "Johannes",
+				"surname": "Köhler",
+				"gender": "m",
+				"birthyear": 1984,
+				"jobs": [
+					"CAD/CAM Konstrukteur"
+				]
+			},
+			{
+				"position": 3,
+				"weight": 3,
+				"forename": "Thomas",
+				"surname": "Klaukien",
+				"gender": "m",
+				"birthyear": 1961,
+				"district": "Stadeln",
+				"jobs": [
+					"Kaufmann",
+					"Bezirksrat"
+				]
+			},
+			{
+				"position": 4,
+				"weight": 3,
+				"forename": "Klaus",
+				"surname": "Pöllmann",
+				"gender": "m",
+				"birthyear": 1954,
+				"jobs": [
+					"Rentner"
+				]
+			},
+			{
+				"position": 5,
+				"weight": 3,
+				"forename": "Jörg",
+				"surname": "Huber",
+				"gender": "m",
+				"birthyear": 1970,
+				"jobs": [
+					"Abteilungsleiter Maschinenbau"
+				]
+			},
+			{
+				"position": 6,
+				"weight": 3,
+				"forename": "Yvonne",
+				"surname": "Josch",
+				"gender": "w",
+				"birthyear": 1969,
+				"jobs": [
+					"OP-Pflegerin"
+				]
+			},
+			{
+				"position": 7,
+				"weight": 2,
+				"forename": "Alexander",
+				"surname": "Andes",
+				"gender": "m",
+				"birthyear": 1971,
+				"jobs": [
+					"CAD-Konstrukteur"
+				]
+			},
+			{
+				"position": 8,
+				"weight": 2,
+				"forename": "Frank-Peter",
+				"surname": "Köhn",
+				"gender": "m",
+				"birthyear": 1960,
+				"jobs": [
+					"Logistiker"
+				]
+			},
+			{
+				"position": 9,
+				"weight": 2,
+				"forename": "Henriette",
+				"surname": "Humml",
+				"gender": "w",
+				"birthyear": 1971,
+				"jobs": [
+					"M.A.",
+					"Management Assistent"
+				]
+			},
+			{
+				"position": 10,
+				"weight": 2,
+				"forename": "Michael",
+				"surname": "Koning",
+				"gender": "m",
+				"birthyear": 1968,
+				"jobs": [
+					"IT-Ingenieur"
+				]
+			},
+			{
+				"position": 11,
+				"weight": 2,
+				"forename": "Dimitri",
+				"surname": "Pernizki",
+				"gender": "m",
+				"birthyear": 1992,
+				"jobs": [
+					"Elektroniker"
+				]
+			},
+			{
+				"position": 12,
+				"weight": 2,
+				"forename": "Peter",
+				"surname": "Meyer",
+				"gender": "m",
+				"birthyear": 1960,
+				"jobs": [
+					"Sachbearbeiter Einkauf"
+				]
+			},
+			{
+				"position": 13,
+				"weight": 2,
+				"forename": "Marina",
+				"surname": "Mazzapica",
+				"gender": "w",
+				"birthyear": 1960,
+				"jobs": [
+					"Gastronom"
+				]
+			},
+			{
+				"position": 14,
+				"weight": 2,
+				"forename": "Gerd",
+				"surname": "Kniep",
+				"gender": "m",
+				"birthyear": 1964,
+				"district": "Mannhof",
+				"jobs": [
+					"Kraftfahrer"
+				]
+			},
+			{
+				"position": 15,
+				"weight": 2,
+				"forename": "Stefan",
+				"surname": "Kratzer",
+				"gender": "m",
+				"birthyear": 1967,
+				"jobs": [
+					"Stahlbetonbauer"
+				]
+			},
+			{
+				"position": 16,
+				"weight": 2,
+				"forename": "Eugenia",
+				"surname": "Funk",
+				"gender": "w",
+				"birthyear": 1981,
+				"jobs": [
+					"Softwareentwicklerin"
+				]
+			},
+			{
+				"position": 17,
+				"weight": 2,
+				"forename": "János",
+				"surname": "Palágyi",
+				"gender": "m",
+				"birthyear": 1974,
+				"jobs": [
+					"Dipl.-Ing. (FH)",
+					"Ingenieur"
+				]
+			},
+			{
+				"position": 18,
+				"weight": 2,
+				"forename": "Silvi",
+				"surname": "Klose-Lorenz",
+				"gender": "w",
+				"birthyear": 1980,
+				"district": "Mannhof",
+				"jobs": [
+					"Betreuerin"
+				]
+			},
+			{
+				"position": 19,
+				"weight": 2,
+				"forename": "Frank",
+				"surname": "Klose",
+				"gender": "m",
+				"birthyear": 1975,
+				"district": "Mannhof",
+				"jobs": [
+					"Techniker"
+				]
+			},
+			{
+				"position": 20,
+				"weight": 2,
+				"forename": "Doris",
+				"surname": "Köhler",
+				"gender": "w",
+				"birthyear": 1952,
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 21,
+				"weight": 2,
+				"forename": "Renata",
+				"surname": "Übler",
+				"gender": "w",
+				"birthyear": 1957,
+				"jobs": [
+					"Schneiderin"
+				]
+			},
+			{
+				"position": 22,
+				"weight": 2,
+				"forename": "Sascha",
+				"surname": "Übler",
+				"gender": "m",
+				"birthyear": 1990,
+				"jobs": [
+					"Film- und Videoeditor"
+				]
+			}
+		]
+	},
+	{
+		"nummer": "5",
+		"partei": {
+			"kurzform": "SPD",
+			"langform": "Sozialdemokratische Partei Deutschlands",
+			"farbe": "#DC0000",
+			"logo": "https://upload.wikimedia.org/wikipedia/de/1/19/Logo_SPD_2019.svg"
+		},
+		"kandidaten": [
+			{
+				"position": 1,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Thomas",
+				"surname": "Jung",
+				"gender": "m",
+				"birthyear": 1961,
+				"image": "501.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/thomas-jung",
+				"email": "thomas.jung@fuerth.de",
+				"facebook": "https://www.facebook.com/Dr.Thomas.Jung.Fuerth/",
+				"instagram": "https://www.instagram.com/thomas.jung.fuerth/",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Oberbürgermeister"
+				]
+			},
+			{
+				"position": 2,
+				"weight": 1,
+				"forename": "Birgit",
+				"surname": "Arnold",
+				"gender": "w",
+				"birthyear": 1961,
+				"image": "502.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/birgit-arnold",
+				"email": "birgit.arnold@spd-furth.de",
+				"jobs": [
+					"Gymnasiallehrerin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 3,
+				"weight": 1,
+				"forename": "Markus",
+				"surname": "Braun",
+				"gender": "m",
+				"birthyear": 1967,
+				"image": "503.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/markus-braun",
+				"email": "markus.braun@fuerth.de",
+				"facebook": "https://www.facebook.com/MarkusBraunSPD/",
+				"instagram": "https://www.instagram.com/markusbraunspd/",
+				"jobs": [
+					"Bürgermeister"
+				]
+			},
+			{
+				"position": 4,
+				"weight": 1,
+				"forename": "Maria",
+				"surname": "Ludwig",
+				"gender": "w",
+				"birthyear": 1962,
+				"image": "504.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/maria-ludwig",
+				"email": "maria.ludwig@spd-fuerth.de",
+				"jobs": [
+					"pharmazeutisch-kaufm. Assistentin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 5,
+				"weight": 1,
+				"titel": "Dr.",
+				"forename": "Benedikt",
+				"surname": "Döhla",
+				"gender": "m",
+				"birthyear": 1983,
+				"image": "505.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/benedikt-doehla",
+				"email": "benedikt.doehla@spd-fuerth.de",
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Mittelschullehrer",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 6,
+				"weight": 1,
+				"forename": "Gabriele",
+				"surname": "Chen-Weidmann",
+				"gender": "w",
+				"birthyear": 1963,
+				"image": "506.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/gabriele-chen-weidmann",
+				"email": "chen-weidmann@gmx.de",
+				"jobs": [
+					"Verwaltungsangestellte",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 7,
+				"weight": 1,
+				"forename": "Maurice",
+				"surname": "Guglietta",
+				"gender": "m",
+				"birthyear": 1991,
+				"image": "507.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/maurice-guglietta",
+				"email": "maurice.guglietta@spd-fuerth.de",
+				"facebook": "https://www.facebook.com/maurice.guglietta.fuerth/",
+				"instagram": "https://www.instagram.com/mau_guglietta/",
+				"twitter": "https://twitter.com/MauriceGug",
+				"jobs": [
+					"M.A.",
+					"Kommunikationsberater",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 8,
+				"weight": 1,
+				"forename": "Sarah",
+				"surname": "Jonescu",
+				"gender": "w",
+				"birthyear": 1985,
+				"image": "508.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/sarah-jonescu",
+				"email": "sarah.jonescu@spd-fuerth.de",
+				"jobs": [
+					"Krankenschwester",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 9,
+				"weight": 1,
+				"forename": "Matthias",
+				"surname": "Dornhuber",
+				"gender": "m",
+				"birthyear": 1983,
+				"image": "509.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/matthias-dornhuber",
+				"email": "matthias.dornhuber@spd-fuerth.de",
+				"facebook": "https://www.facebook.com/matthias.dornhuber/",
+				"instagram": "https://www.instagram.com/matthias.dornhuber/",
+				"twitter": "https://twitter.com/MDornhuber",
+				"jobs": [
+					"M.A.",
+					"Wissenschaftlicher Mitarbeiter"
+				]
+			},
+			{
+				"position": 10,
+				"weight": 1,
+				"forename": "Karin",
+				"surname": "Vigas",
+				"gender": "w",
+				"birthyear": 1958,
+				"district": "Burgfarrnbach",
+				"image": "510.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/karin-vigas",
+				"email": "juekavigas@web.de",
+				"jobs": [
+					"Verwaltungsfachangestellte",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 11,
+				"weight": 1,
+				"forename": "Sepp",
+				"surname": "Körbl",
+				"gender": "m",
+				"birthyear": 1962,
+				"image": "511.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/sepp-koerbl",
+				"jobs": [
+					"Studienrat für Realschule",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 12,
+				"weight": 1,
+				"forename": "Christiane",
+				"surname": "Stauber",
+				"gender": "w",
+				"birthyear": 1967,
+				"district": "Mannhof",
+				"image": "512.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/christiane-stauber",
+				"email": "christiane.stauber@t-online.de",
+				"jobs": [
+					"Medizinische Fachangestellte",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 13,
+				"weight": 1,
+				"forename": "Alexander",
+				"surname": "Fuchs",
+				"gender": "m",
+				"birthyear": 1991,
+				"image": "513.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/alexander-fuchs",
+				"email": "alexander.fuchs@spd-fuerth.de",
+				"facebook": "https://www.facebook.com/alexander.fuchs.54",
+				"instagram": "https://www.instagram.com/alex_fuchs_fuerth/",
+				"twitter": "https://twitter.com/A_P_Fuchs",
+				"jobs": [
+					"Dipl.-Jur. (Univ)",
+					"Jurist"
+				]
+			},
+			{
+				"position": 14,
+				"weight": 1,
+				"forename": "Julia",
+				"surname": "Schnitzer",
+				"gender": "w",
+				"birthyear": 1993,
+				"district": "Unterfürberg",
+				"image": "514.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/julia-schnitzer",
+				"email": "julia.schnitzer@spd-fuerth.de",
+				"jobs": [
+					"B.A.",
+					"Studentin Europäische Ethnologie",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 15,
+				"weight": 1,
+				"forename": "Markus",
+				"surname": "Dinter-Bienk",
+				"gender": "m",
+				"birthyear": 1979,
+				"district": "Unterfarrnbach",
+				"image": "515.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/markus-dinter-bienk",
+				"email": "markus.bienk@t-online.de",
+				"jobs": [
+					"Gymnasiallehrer",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 16,
+				"weight": 1,
+				"forename": "Heike",
+				"surname": "Giering",
+				"gender": "w",
+				"birthyear": 1961,
+				"district": "Vach",
+				"image": "516.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/heike-giering",
+				"email": "heike.giering@arcor.de",
+				"jobs": [
+					"Hebamme",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 17,
+				"weight": 1,
+				"forename": "Roland",
+				"surname": "Richter",
+				"gender": "m",
+				"birthyear": 1969,
+				"district": "Ronhof",
+				"image": "517.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/roland-richter",
+				"email": "roland.richter.spd@t-online.de",
+				"jobs": [
+					"Erzieher",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 18,
+				"weight": 1,
+				"forename": "Silke",
+				"surname": "Rick",
+				"gender": "w",
+				"birthyear": 1971,
+				"image": "518.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/silke-rick",
+				"email": "silke.rick@spd-fuerth.de",
+				"facebook": "https://www.facebook.com/SilkeRickSPDfuerth/",
+				"instagram": "https://www.instagram.com/silke_rick/",
+				"jobs": [
+					"Erzieherin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 19,
+				"weight": 1,
+				"forename": "Stefan",
+				"surname": "Haßgall",
+				"gender": "m",
+				"birthyear": 1970,
+				"image": "519.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/stefan-hassgall",
+				"email": "stefan.hassgall@arcor.de",
+				"jobs": [
+					"Polizeibeamter",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 20,
+				"weight": 1,
+				"forename": "Michaela",
+				"surname": "von Wittke",
+				"gender": "w",
+				"birthyear": 1968,
+				"image": "520.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/michaela-von-wittke",
+				"email": "michaela@von-wittke.de",
+				"jobs": [
+					"Bäckermeisterin",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 21,
+				"weight": 1,
+				"forename": "Peter",
+				"surname": "Scheuenstuhl",
+				"gender": "m",
+				"birthyear": 1996,
+				"image": "521.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/peter-scheuenstuhl",
+				"email": "peter.scheuenstuhl@spd-fuerth.de",
+				"jobs": [
+					"Medizinstudent"
+				]
+			},
+			{
+				"position": 22,
+				"weight": 1,
+				"forename": "Judith",
+				"surname": "Bauer",
+				"gender": "w",
+				"birthyear": 1989,
+				"district": "Stadeln",
+				"image": "522.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/judith-bauer",
+				"email": "judith.bauer@spd-fuerth.de",
+				"jobs": [
+					"Sozialarbeiterin"
+				]
+			},
+			{
+				"position": 23,
+				"weight": 1,
+				"forename": "Werner",
+				"surname": "Dippold",
+				"gender": "m",
+				"birthyear": 1967,
+				"image": "523.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/werner-dippold",
+				"email": "werner.dippold@spd-fuerth.de",
+				"jobs": [
+					"Datenschutz- und IT-Sicherheitsbeauftragter"
+				]
+			},
+			{
+				"position": 24,
+				"weight": 1,
+				"forename": "Katrin",
+				"surname": "Feiler-Düll",
+				"gender": "w",
+				"birthyear": 1984,
+				"image": "524.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/katrin-feiler-duell",
+				"email": "katrin.feiler-duell@spd-fuerth.de",
+				"jobs": [
+					"M.Sc.",
+					"Volkswirtin"
+				]
+			},
+			{
+				"position": 25,
+				"weight": 1,
+				"forename": "Andreas",
+				"surname": "Göppl",
+				"gender": "m",
+				"birthyear": 1976,
+				"image": "525.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/andreas-goeppl",
+				"email": "andreas.goeppl@me.com",
+				"jobs": [
+					"Wissenschaftlicher Mitarbeiter"
+				]
+			},
+			{
+				"position": 26,
+				"weight": 1,
+				"forename": "Andrea",
+				"surname": "Kurz",
+				"gender": "w",
+				"birthyear": 1971,
+				"image": "526.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/andrea-kurz",
+				"email": "andrea.kurz@spd-fuerth.de",
+				"jobs": [
+					"Dipl.-Ing. (FH)",
+					"Architektin"
+				]
+			},
+			{
+				"position": 27,
+				"weight": 1,
+				"forename": "Julian",
+				"surname": "Pecher",
+				"gender": "m",
+				"birthyear": 1991,
+				"image": "527.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/julian-pecher",
+				"email": "info@julianpecher.de",
+				"facebook": "https://www.facebook.com/julian.pecher.98",
+				"instagram": "https://www.instagram.com/julianpecher/",
+				"jobs": [
+					"Erzieher"
+				]
+			},
+			{
+				"position": 28,
+				"weight": 1,
+				"forename": "Katja",
+				"surname": "Seiß de Caicedo",
+				"gender": "w",
+				"birthyear": 1967,
+				"image": "528.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/katja-seiss-de-caicedo",
+				"email": "katja.seiss@spd-fuerth.de",
+				"jobs": [
+					"Berufsschullehrerin"
+				]
+			},
+			{
+				"position": 29,
+				"weight": 1,
+				"forename": "Aydin",
+				"surname": "Kaval",
+				"gender": "m",
+				"birthyear": 1961,
+				"image": "529.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/aydin-kaval",
+				"email": "aydin.kaval@spd-fuerth.de",
+				"jobs": [
+					"Feinmesstechniker",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 30,
+				"weight": 1,
+				"forename": "Susanne",
+				"surname": "Colonna",
+				"gender": "w",
+				"birthyear": 1958,
+				"image": "530.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/susanne-colonna",
+				"email": "susanne.colonna@spd-fuerth.de",
+				"jobs": [
+					"Städt. Angestellte im Schuldienst"
+				]
+			},
+			{
+				"position": 31,
+				"weight": 1,
+				"forename": "Antonio",
+				"surname": "Loisi",
+				"gender": "m",
+				"birthyear": 1986,
+				"district": "Mannhof",
+				"image": "531.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/antonio-loisi",
+				"email": "antonio.loisi@spd-fuerth.de",
+				"jobs": [
+					"Rohrnetzmonteur",
+					"Feuerwehrkommandant"
+				]
+			},
+			{
+				"position": 32,
+				"weight": 1,
+				"forename": "Andrea",
+				"surname": "Stadelmann",
+				"gender": "w",
+				"birthyear": 1969,
+				"image": "532.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/andrea-stadelmann",
+				"email": "andrea.stadelmann@spd-fuerth.de",
+				"jobs": [
+					"Büroleitung im Abgeordnetenbüro"
+				]
+			},
+			{
+				"position": 33,
+				"weight": 1,
+				"forename": "Hermann",
+				"surname": "Wagler",
+				"gender": "m",
+				"birthyear": 1955,
+				"district": "Stadeln",
+				"image": "533.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/hermann-wagler",
+				"email": "hermann-wagler@gmx.de",
+				"jobs": [
+					"Versicherungsfachmann i.R.",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 34,
+				"weight": 1,
+				"forename": "Alexandra",
+				"surname": "Richter",
+				"gender": "w",
+				"birthyear": 1987,
+				"image": "534.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/alexandra-richter",
+				"email": "alexandra.richter@spd-fuerth.de",
+				"jobs": [
+					"LL.M.",
+					"Wissenschaftliche Mitarbeiterin"
+				]
+			},
+			{
+				"position": 35,
+				"weight": 1,
+				"forename": "Felix",
+				"surname": "Griener",
+				"gender": "m",
+				"birthyear": 1986,
+				"image": "535.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/felix-griener",
+				"email": "felix.griener@spd-fuerth.de",
+				"jobs": [
+					"Personalratsvorsitzender"
+				]
+			},
+			{
+				"position": 36,
+				"weight": 1,
+				"forename": "Gabriele",
+				"surname": "Bracker",
+				"gender": "w",
+				"birthyear": 1961,
+				"image": "536.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/gabriele-bracker",
+				"email": "gabriele.bracker@spd-fuerth.de",
+				"jobs": [
+					"Notfallsanitäterin"
+				]
+			},
+			{
+				"position": 37,
+				"weight": 1,
+				"forename": "Ayhan",
+				"surname": "Yeşil",
+				"gender": "m",
+				"birthyear": 1974,
+				"image": "537.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/ayhan-yesil",
+				"email": "ayhan.yesil@spd-fuerth.de",
+				"jobs": [
+					"Kaufmann",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 38,
+				"weight": 1,
+				"forename": "Gabriele",
+				"surname": "Hahn",
+				"gender": "w",
+				"birthyear": 1954,
+				"district": "Vach",
+				"image": "538.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/gabriele-hahn",
+				"email": "gaby-hahn@email.de",
+				"jobs": [
+					"Lehrerin"
+				]
+			},
+			{
+				"position": 39,
+				"weight": 1,
+				"forename": "Paul",
+				"surname": "Neubert",
+				"gender": "m",
+				"birthyear": 2000,
+				"district": "Vach",
+				"image": "539.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/paul-neubert",
+				"email": "mail@paul-neubert.de",
+				"facebook": "https://www.facebook.com/paul.neubert.10",
+				"instagram": "https://www.instagram.com/paul.f.neubert/",
+				"jobs": [
+					"Schüler"
+				]
+			},
+			{
+				"position": 40,
+				"weight": 1,
+				"forename": "Olga",
+				"surname": "Wittliff",
+				"gender": "w",
+				"birthyear": 1983,
+				"image": "540.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/olga-wittliff",
+				"email": "olga.wittliff@spd-fuerth.de",
+				"jobs": [
+					"Volljuristin"
+				]
+			},
+			{
+				"position": 41,
+				"weight": 1,
+				"forename": "Andreas",
+				"surname": "Gabler",
+				"gender": "m",
+				"birthyear": 1984,
+				"image": "541.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/andreas-gabler",
+				"email": "andreas.gabler@spd-fuerth.de",
+				"jobs": [
+					"Dipl.-Vww. (FH)",
+					"Fachverfahrensadministrator"
+				]
+			},
+			{
+				"position": 42,
+				"weight": 1,
+				"forename": "Horst",
+				"surname": "Honeiser",
+				"gender": "m",
+				"birthyear": 1954,
+				"image": "542.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/horst-honeiser",
+				"email": "honeiser@gmx.de",
+				"jobs": [
+					"Verkaufs- und Vertriebsleiter i.R."
+				]
+			},
+			{
+				"position": 43,
+				"weight": 1,
+				"forename": "Claus",
+				"surname": "Reinhardt",
+				"gender": "m",
+				"birthyear": 1967,
+				"district": "Vach",
+				"image": "543.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/claus-reinhardt",
+				"email": "claus.reinhardt@spd-fuerth.de",
+				"jobs": [
+					"Heilerziehungspfleger"
+				]
+			},
+			{
+				"position": 44,
+				"weight": 1,
+				"forename": "Tobias",
+				"surname": "Schmidt",
+				"gender": "m",
+				"birthyear": 1985,
+				"image": "544.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/tobias-schmidt",
+				"email": "tobias.schmidt@spd-fuerth.de",
+				"facebook": "https://www.facebook.com/tobiasschmidtfuerth/",
+				"instagram": "https://www.instagram.com/always_laughing_toby/",
+				"jobs": [
+					"Speditionskaufmann"
+				]
+			},
+			{
+				"position": 45,
+				"weight": 1,
+				"forename": "Wolfgang",
+				"surname": "Griff",
+				"gender": "m",
+				"birthyear": 1960,
+				"image": "545.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/wolfgang-griff",
+				"email": "wolfgang.griff@spd-fuerth.de",
+				"jobs": [
+					"Handelsfachwirt"
+				]
+			},
+			{
+				"position": 46,
+				"weight": 1,
+				"forename": "Uğur",
+				"surname": "Pehlivan",
+				"gender": "m",
+				"birthyear": 1985,
+				"image": "546.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/ugur-pehlivan",
+				"email": "ugur.pehlivan@spd-fuerth.de",
+				"jobs": [
+					"M.Sc.",
+					"Chemiker"
+				]
+			},
+			{
+				"position": 47,
+				"weight": 1,
+				"forename": "Peter",
+				"surname": "Wenig",
+				"gender": "m",
+				"birthyear": 1965,
+				"image": "547.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/peter-wenig",
+				"email": "peter.wenig@spd-fuerth.de",
+				"jobs": [
+					"Brauer und Mälzer"
+				]
+			},
+			{
+				"position": 48,
+				"weight": 1,
+				"forename": "Sven",
+				"surname": "Peterk",
+				"gender": "m",
+				"birthyear": 1980,
+				"district": "Oberfürberg",
+				"image": "548.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/sven-peterk",
+				"email": "sven.peterk@spd-fuerth.de",
+				"jobs": [
+					"Risikoanalyst"
+				]
+			},
+			{
+				"position": 49,
+				"weight": 1,
+				"forename": "Benjamin",
+				"surname": "Beißwenger",
+				"gender": "m",
+				"birthyear": 2002,
+				"image": "549.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/benjamin-beisswenger",
+				"email": "benjamin.beisswenger@spd-fuerth.de",
+				"jobs": [
+					"Schüler"
+				]
+			},
+			{
+				"position": 50,
+				"weight": 1,
+				"forename": "David",
+				"surname": "Hofmann",
+				"gender": "m",
+				"birthyear": 1981,
+				"image": "550.jpg",
+				"webpage": "https://www.aus-liebe-zu-fuerth.de/david-hofmann",
+				"email": "david.hofmann@spd-fuerth.de",
+				"jobs": [
+					"Kfz-Mechaniker"
+				]
+			}
+		]
+	},
+	{
+		"nummer": "6",
+		"partei": {
+			"kurzform": "FDP",
+			"langform": "Freie Demokratische Partei",
+			"farbe": "#FFED00",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Logo_der_Freien_Demokraten.svg"
+		},
+		"kandidaten": [
+			{
+				"position": 1,
+				"weight": 3,
+				"forename": "Stephan",
+				"surname": "Eichmann",
+				"gender": "m",
+				"birthyear": 1977,
+				"district": "Poppenreuth",
+				"jobs": [
+					"LL.M. Eur.",
+					"Rechtsanwalt",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 2,
+				"weight": 3,
+				"forename": "Kerstin",
+				"surname": "Müller-Kittel",
+				"gender": "w",
+				"birthyear": 1967,
+				"district": "Vach",
+				"jobs": [
+					"Dipl.-Verww. (FH)",
+					"Schulleiterin"
+				]
+			},
+			{
+				"position": 3,
+				"weight": 3,
+				"forename": "Daniel",
+				"surname": "Bayer",
+				"gender": "m",
+				"birthyear": 1996,
+				"jobs": [
+					"B.Sc.",
+					"Student der Informatik"
+				]
+			},
+			{
+				"position": 4,
+				"weight": 3,
+				"forename": "Johanna",
+				"surname": "Mathes",
+				"gender": "w",
+				"birthyear": 1988,
+				"jobs": [
+					"M.Sc.",
+					"Gesundheitsökonomin"
+				]
+			},
+			{
+				"position": 5,
+				"weight": 3,
+				"forename": "Franz",
+				"surname": "Fleischer",
+				"gender": "m",
+				"birthyear": 1954,
+				"district": "Unterfarrnbach",
+				"jobs": [
+					"Dipl.-Betriebswirt (FH)",
+					"selbständig"
+				]
+			},
+			{
+				"position": 6,
+				"weight": 3,
+				"forename": "Claudia",
+				"surname": "Zöllick",
+				"gender": "w",
+				"birthyear": 1980,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Volljuristin im öffentl. Dienst"
+				]
+			},
+			{
+				"position": 7,
+				"weight": 2,
+				"forename": "Fabian",
+				"surname": "Eggen",
+				"gender": "m",
+				"birthyear": 1993,
+				"jobs": [
+					"B.A.",
+					"Angestellter in Steuerkanzlei"
+				]
+			},
+			{
+				"position": 8,
+				"weight": 2,
+				"forename": "Karin",
+				"surname": "Vogel",
+				"gender": "w",
+				"birthyear": 1968,
+				"district": "Ronhof",
+				"jobs": [
+					"Kaufm. Angestellte"
+				]
+			},
+			{
+				"position": 9,
+				"weight": 2,
+				"forename": "Robert",
+				"surname": "Jungkunz",
+				"gender": "m",
+				"birthyear": 1965,
+				"jobs": [
+					"Kaufm. Angestellter"
+				]
+			},
+			{
+				"position": 10,
+				"weight": 2,
+				"forename": "Bartosz",
+				"surname": "Jurkiewicz",
+				"gender": "m",
+				"birthyear": 1996,
+				"jobs": [
+					"Student International Business"
+				]
+			},
+			{
+				"position": 11,
+				"weight": 2,
+				"forename": "Edmond",
+				"surname": "Kulhei",
+				"gender": "m",
+				"birthyear": 1953,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Kfz-Meister"
+				]
+			},
+			{
+				"position": 12,
+				"weight": 2,
+				"forename": "Timo",
+				"surname": "Häusinger",
+				"gender": "m",
+				"birthyear": 1999,
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 13,
+				"weight": 2,
+				"titel": "Dr.",
+				"forename": "Welf",
+				"surname": "Raschke",
+				"gender": "m",
+				"birthyear": 1940,
+				"titels": [
+					"Dr."
+				],
+				"jobs": [
+					"Dr. med.",
+					"Arzt"
+				]
+			},
+			{
+				"position": 14,
+				"weight": 2,
+				"forename": "Dieter",
+				"surname": "Knapp",
+				"gender": "m",
+				"birthyear": 1939,
+				"district": "Stadeln",
+				"jobs": [
+					"Dipl.-Volksw.",
+					"Rentner"
+				]
+			},
+			{
+				"position": 15,
+				"weight": 2,
+				"forename": "Theresia",
+				"surname": "Marchl",
+				"gender": "w",
+				"birthyear": 1955,
+				"district": "Unterfarrnbach",
+				"jobs": [
+					"Rentnerin"
+				]
+			},
+			{
+				"position": 16,
+				"weight": 2,
+				"forename": "Daniel",
+				"surname": "Richter",
+				"gender": "m",
+				"birthyear": 1981,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Maler- und Lackierermeister"
+				]
+			},
+			{
+				"position": 17,
+				"weight": 2,
+				"forename": "Johannes",
+				"surname": "Mederer",
+				"gender": "m",
+				"birthyear": 1992,
+				"jobs": [
+					"Fachinformatiker Anwendungsentwicklung"
+				]
+			},
+			{
+				"position": 18,
+				"weight": 2,
+				"forename": "Benjamin",
+				"surname": "Seßner",
+				"gender": "m",
+				"birthyear": 1986,
+				"district": "Vach",
+				"jobs": [
+					"Kommunikationswirt"
+				]
+			},
+			{
+				"position": 19,
+				"weight": 2,
+				"forename": "Elfriede",
+				"surname": "Kulhei",
+				"gender": "w",
+				"birthyear": 1952,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Buchhalterin"
+				]
+			},
+			{
+				"position": 20,
+				"weight": 2,
+				"forename": "Christian",
+				"surname": "Kulhei",
+				"gender": "m",
+				"birthyear": 1984,
+				"district": "Poppenreuth",
+				"jobs": [
+					"Fachinformatiker"
+				]
+			},
+			{
+				"position": 21,
+				"weight": 2,
+				"forename": "Norbert",
+				"surname": "Eimer",
+				"gender": "m",
+				"birthyear": 1940,
+				"district": "Vach",
+				"jobs": [
+					"Dipl.-Ing.",
+					"Ingenieur"
+				]
+			},
+			{
+				"position": 22,
+				"weight": 1,
+				"forename": "Dieter",
+				"surname": "Witzsch",
+				"gender": "m",
+				"birthyear": 1934,
+				"jobs": [
+					"Drogist"
+				]
+			},
+			{
+				"position": 23,
+				"weight": 1,
+				"forename": "Harriet",
+				"surname": "Janke",
+				"gender": "w",
+				"birthyear": 1974,
+				"jobs": [
+					"Konrektorin"
+				]
+			}
+		]
+	},
+	{
+		"nummer": "7",
+		"partei": {
+			"kurzform": "DIE LINKE",
+			"langform": "DIE LINKE",
+			"farbe": "#FF1493",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Die_Linke_logo.svg"
+		},
+		"kandidaten": [
+			{
+				"position": 1,
+				"weight": 2,
+				"forename": "Ulrich",
+				"surname": "Schönweiss",
+				"gender": "m",
+				"birthyear": 1963,
+				"jobs": [
+					"Rechtsanwalt",
+					"Stadtratsmitglied"
+				]
+			},
+			{
+				"position": 2,
+				"weight": 2,
+				"forename": "Bettina",
+				"surname": "Wagegg",
+				"gender": "w",
+				"birthyear": 1977,
+				"jobs": [
+					"Medizinisch-Technische Röntgenassistentin"
+				]
+			},
+			{
+				"position": 3,
+				"weight": 2,
+				"forename": "Niklas",
+				"surname": "Haupt",
+				"gender": "m",
+				"birthyear": 1986,
+				"jobs": [
+					"Bildungsreferent"
+				]
+			},
+			{
+				"position": 4,
+				"weight": 2,
+				"forename": "Anna-Lena",
+				"surname": "Salomon",
+				"gender": "w",
+				"birthyear": 1983,
+				"jobs": [
+					"Diplom-Sozialpädagogin"
+				]
+			},
+			{
+				"position": 5,
+				"weight": 2,
+				"forename": "Fabian",
+				"surname": "Lindner",
+				"gender": "m",
+				"birthyear": 1992,
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 6,
+				"weight": 2,
+				"forename": "Ruth",
+				"surname": "Brenner",
+				"gender": "w",
+				"birthyear": 1959,
+				"jobs": [
+					"Förderlehrerin"
+				]
+			},
+			{
+				"position": 7,
+				"weight": 2,
+				"forename": "Jürgen",
+				"surname": "Baran",
+				"gender": "m",
+				"birthyear": 1960,
+				"jobs": [
+					"arbeitssuchend"
+				]
+			},
+			{
+				"position": 8,
+				"weight": 2,
+				"forename": "Michelle",
+				"surname": "Pastille",
+				"gender": "w",
+				"birthyear": 1998,
+				"jobs": [
+					"Studentin"
+				]
+			},
+			{
+				"position": 9,
+				"weight": 2,
+				"forename": "Jens",
+				"surname": "Bonnermann",
+				"gender": "m",
+				"birthyear": 1970,
+				"jobs": [
+					"Informatiker"
+				]
+			},
+			{
+				"position": 10,
+				"weight": 2,
+				"forename": "Regina",
+				"surname": "Schleser",
+				"gender": "w",
+				"birthyear": 1962,
+				"jobs": [
+					"Gewerkschaftssekretärin"
+				]
+			},
+			{
+				"position": 11,
+				"weight": 2,
+				"forename": "Wastl",
+				"surname": "Sommer",
+				"gender": "m",
+				"birthyear": 1970,
+				"jobs": [
+					"Programmierer"
+				]
+			},
+			{
+				"position": 12,
+				"weight": 2,
+				"forename": "Derya",
+				"surname": "Meral",
+				"gender": "w",
+				"birthyear": 1979,
+				"jobs": [
+					"Kindergärtnerin"
+				]
+			},
+			{
+				"position": 13,
+				"weight": 2,
+				"forename": "Ernst",
+				"surname": "Ziegler",
+				"gender": "m",
+				"birthyear": 1953,
+				"jobs": [
+					"Altenpfleger"
+				]
+			},
+			{
+				"position": 14,
+				"weight": 2,
+				"forename": "Anny",
+				"surname": "Heike",
+				"gender": "w",
+				"birthyear": 1948,
+				"jobs": [
+					"Betriebswirtin"
+				]
+			},
+			{
+				"position": 15,
+				"weight": 2,
+				"forename": "Rainer",
+				"surname": "Kristuf",
+				"gender": "m",
+				"birthyear": 1961,
+				"jobs": [
+					"Asylsozialbetreuer"
+				]
+			},
+			{
+				"position": 16,
+				"weight": 2,
+				"forename": "Marion",
+				"surname": "Denk",
+				"gender": "w",
+				"birthyear": 1963,
+				"jobs": [
+					"arbeitssuchend"
+				]
+			},
+			{
+				"position": 17,
+				"weight": 1,
+				"forename": "Alexander",
+				"surname": "Distler",
+				"gender": "m",
+				"birthyear": 1991,
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 18,
+				"weight": 1,
+				"forename": "Rosemarie",
+				"surname": "Kolb",
+				"gender": "w",
+				"birthyear": 1947,
+				"jobs": [
+					"Sozialarbeiterin i.R."
+				]
+			},
+			{
+				"position": 19,
+				"weight": 1,
+				"forename": "Simon",
+				"surname": "Renieris",
+				"gender": "m",
+				"birthyear": 1993,
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 20,
+				"weight": 1,
+				"forename": "Marlen",
+				"surname": "Stoll",
+				"gender": "w",
+				"birthyear": 1991,
+				"jobs": [
+					"Erzieherin"
+				]
+			},
+			{
+				"position": 21,
+				"weight": 1,
+				"forename": "Marcus",
+				"surname": "Bahr",
+				"gender": "m",
+				"birthyear": 1974,
+				"jobs": [
+					"Koch"
+				]
+			},
+			{
+				"position": 22,
+				"weight": 1,
+				"forename": "Tanja",
+				"surname": "Lender",
+				"gender": "w",
+				"birthyear": 1990,
+				"jobs": [
+					"Sozialpädagogin"
+				]
+			},
+			{
+				"position": 23,
+				"weight": 1,
+				"forename": "Ferdinand",
+				"surname": "Roscher",
+				"gender": "m",
+				"birthyear": 1982,
+				"jobs": [
+					"selbständiger Musiker"
+				]
+			},
+			{
+				"position": 24,
+				"weight": 1,
+				"forename": "Sabine",
+				"surname": "Roth",
+				"gender": "w",
+				"birthyear": 1965,
+				"jobs": [
+					"Buchhändlerin"
+				]
+			},
+			{
+				"position": 25,
+				"weight": 1,
+				"forename": "Carsten",
+				"surname": "Borchert",
+				"gender": "m",
+				"birthyear": 1962,
+				"jobs": [
+					"Maurer",
+					"Schöffe"
+				]
+			},
+			{
+				"position": 26,
+				"weight": 1,
+				"forename": "Jasmin",
+				"surname": "Hacker",
+				"gender": "w",
+				"birthyear": 1976,
+				"jobs": [
+					"Heilpädagogin"
+				]
+			},
+			{
+				"position": 27,
+				"weight": 1,
+				"forename": "Anton",
+				"surname": "Reichenbecher",
+				"gender": "m",
+				"birthyear": 1999,
+				"jobs": [
+					"Student"
+				]
+			},
+			{
+				"position": 28,
+				"weight": 1,
+				"forename": "Jonas",
+				"surname": "Köhler-Stoll",
+				"gender": "m",
+				"birthyear": 1990,
+				"jobs": [
+					"Student der sozialen Arbeit"
+				]
+			},
+			{
+				"position": 29,
+				"weight": 1,
+				"forename": "Uwe",
+				"surname": "Bruckmann",
+				"gender": "m",
+				"birthyear": 1962,
+				"jobs": [
+					"Rentner"
+				]
+			},
+			{
+				"position": 30,
+				"weight": 1,
+				"forename": "Thomas",
+				"surname": "Händel",
+				"gender": "m",
+				"birthyear": 1953,
+				"jobs": [
+					"Elektromechaniker"
+				]
+			},
+			{
+				"position": 31,
+				"weight": 1,
+				"forename": "Stefan",
+				"surname": "Reichel",
+				"gender": "m",
+				"birthyear": 1978,
+				"jobs": [
+					"Krankenpfleger"
+				]
+			},
+			{
+				"position": 32,
+				"weight": 1,
+				"forename": "Sebastian",
+				"surname": "Jung",
+				"gender": "m",
+				"birthyear": 1987,
+				"jobs": [
+					"Gewerkschaftssekretär"
+				]
+			},
+			{
+				"position": 33,
+				"weight": 1,
+				"forename": "István",
+				"surname": "Szabó",
+				"gender": "m",
+				"birthyear": 1952,
+				"jobs": [
+					"Karosseriebaumeister"
+				]
+			},
+			{
+				"position": 33,
+				"weight": 1,
+				"forename": "Karl",
+				"surname": "Hübner",
+				"gender": "m",
+				"birthyear": 1957,
+				"jobs": [
+					"Bühnenbauer"
+				]
+			}
+		]
+	}
+]

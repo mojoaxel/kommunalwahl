@@ -13,5 +13,15 @@
 
 	header {
 		margin-bottom: 1em;
-	}
+  }
+
+  .logo {
+    margin-top: 1em;
+    max-width: 5em;
+    float: right;
+
+    img {
+      max-width: 100%;
+    }
+  }
 }

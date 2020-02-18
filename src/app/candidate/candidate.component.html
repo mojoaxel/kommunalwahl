@@ -1,8 +1,19 @@
-<div [textContent]="getNumber()"></div>
+<div [textContent]="number"></div>
 <h3>
-	<span *ngIf="candidate.titel && candidate.titel.length">{{candidate.titel?.join(' ')}} </span>
-	<span>{{candidate.vorname}} {{candidate.nachname}}</span>
-	<span *ngIf="candidate.alter"> ({{candidate.alter}} Jahre)</span>
+	<span *ngIf="candidate.titels && candidate.titels.length">{{candidate.titels.join(' ')}} </span>
+	<span class="name">{{candidate.forename}} {{candidate.surname}}</span>
 </h3>
 
-<div *ngIf="candidate.berufe && candidate.berufe.length">Beruf: {{candidate.berufe?.join('; ')}}</div>
+<div *ngIf="candidate.birthyear && candidate.birthyear"><b>Geburtsjahr:</b> {{candidate.birthyear}} ({{age}} Jahre)</div>
+<div *ngIf="candidate.district && candidate.district.length"><b>Stadtteil:</b> {{candidate.district}}</div>
+<div *ngIf="candidate.jobs && candidate.jobs.length"><b>Beruf:</b> {{candidate.jobs?.join('; ')}}</div>
+
+<div class="social">
+  <ul>
+    <li *ngIf="candidate.webpage"><a href="{{candidate.webpage}}"><span>webpage</span></a></li>
+    <li *ngIf="candidate.ebay"><a href="mailto:{{candidate.ebay}}"><span>email</span></a></li>
+    <li *ngIf="candidate.facebook"><a href="{{candidate.facebook}}"><span>facebook</span></a></li>
+    <li *ngIf="candidate.instagram"><a href="{{candidate.instagram}}"><span>instagram</span></a></li>
+    <li *ngIf="candidate.twitter"><a href="{{candidate.twitter}}"><span>twitter</span></a></li>
+  </ul>
+</div>
