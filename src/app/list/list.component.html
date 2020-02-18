@@ -1,15 +1,31 @@
 <section class="list">
   <div class="listheader">
     <h4>Wahlvorschlag Nr. {{list.nummer}}</h4>
-    <div><b>Frauenquote:</b> {{womensQuota}} %</div>
-    <div><b>Altersdurchschnitt:</b> {{ageAverage}} Jahre</div>
   </div>
 
   <div *ngIf="list.partei.logo" class="logo"><img [src]="list.partei.logo" /></div>
 
 	<header>
 		<h2>{{list.nummer}}: <span title="{{list.partei.langform}}">{{list.partei.kurzform}}</span></h2>
-		<div [innerHTML]="getSubtitle()"></div>
+    <div [innerHTML]="getSubtitle()"></div>
+
+    <div>
+      <div><b>Frauenquote:</b> {{womensQuota()}} %</div>
+      <div><b>Altersdurchschnitt:</b> {{ageAverage()}} Jahre</div>
+
+      <!--
+      <div><b>Frauenquote Top15:</b> {{womensQuota(15)}} %</div>
+      <div><b>Altersdurchschnitt Top15:</b> {{ageAverage(15)}} Jahre</div>
+      -->
+    </div>
+
+    <div>
+      <ul>
+        <li *ngIf="list.partei.facebook"><a href="{{list.partei.facebook}}"><span>facebook</span></a></li>
+        <li *ngIf="list.partei.instagram"><a href="{{list.partei.instagram}}"><span>instagram</span></a></li>
+        <li *ngIf="list.partei.twitter"><a href="{{list.partei.twitter}}"><span>twitter</span></a></li>
+      </ul>
+    </div>
   </header>
 
 	<app-candidate *ngFor="let candidate of list.kandidaten"
