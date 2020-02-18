@@ -5,6 +5,7 @@
 			"kurzform": "CSU",
 			"langform": "Christlich-Soziale Union in Bayern e.V.",
 			"farbe": "#0C87D1",
+			"homepage": "https://www.csu-fuerth.de/",
 			"logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Christlich-Soziale_Union_%28CSU%29%2C_logo_ab_2016.svg"
 		},
 		"kandidaten": [
@@ -687,6 +688,9 @@
 			"kurzform": "GRÜNE",
 			"langform": "BÜNDNIS 90/DIE GRÜNEN",
 			"farbe": "#1FA15D",
+			"homepage": "https://www.gruene-fuerth.de/kommunalwahl-2020/",
+			"facebook": "https://de-de.facebook.com/DieGruenenFuerth",
+			"instagram": "https://www.instagram.com/gruenefuerth/",
 			"logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo.svg"
 		},
 		"kandidaten": [
@@ -1400,6 +1404,7 @@
 			"kurzform": "FREIE WÄHLER",
 			"langform": "FREIE WÄHLER Bayern",
 			"farbe": "#FF8C00",
+			"homepage": "https://www.fw-fuerth.de/",
 			"logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_Freie_W%C3%A4hler_Bayern.png"
 		},
 		"kandidaten": [
@@ -2238,6 +2243,7 @@
 			"kurzform": "SPD",
 			"langform": "Sozialdemokratische Partei Deutschlands",
 			"farbe": "#DC0000",
+			"homepage": "https://www.aus-liebe-zu-fuerth.de/",
 			"logo": "https://upload.wikimedia.org/wikipedia/de/1/19/Logo_SPD_2019.svg"
 		},
 		"kandidaten": [
@@ -3019,6 +3025,9 @@
 			"kurzform": "FDP",
 			"langform": "Freie Demokratische Partei",
 			"farbe": "#FFED00",
+			"homepage": "https://www.fdp-fuerth.de/kommunalwahl-2020/kommunalwahl-in-der-stadt-fuerth/",
+			"facebook": "https://www.facebook.com/FDP.Fuerth/",
+			"instagram": "https://www.instagram.com/fdp_fuerth/",
 			"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Logo_der_Freien_Demokraten.svg"
 		},
 		"kandidaten": [
@@ -3029,7 +3038,8 @@
 				"surname": "Eichmann",
 				"gender": "m",
 				"birthyear": 1977,
-				"district": "Poppenreuth",
+				"district": "Espan",
+				"image": "601.jpg",
 				"jobs": [
 					"LL.M. Eur.",
 					"Rechtsanwalt",
@@ -3044,6 +3054,7 @@
 				"gender": "w",
 				"birthyear": 1967,
 				"district": "Vach",
+				"image": "602.jpg",
 				"jobs": [
 					"Dipl.-Verww. (FH)",
 					"Schulleiterin"
@@ -3056,6 +3067,8 @@
 				"surname": "Bayer",
 				"gender": "m",
 				"birthyear": 1996,
+				"district": "Südstadt",
+				"image": "603.jpg",
 				"jobs": [
 					"B.Sc.",
 					"Student der Informatik"
@@ -3068,6 +3081,8 @@
 				"surname": "Mathes",
 				"gender": "w",
 				"birthyear": 1988,
+				"district": "Südstadt",
+				"image": "604.jpg",
 				"jobs": [
 					"M.Sc.",
 					"Gesundheitsökonomin"
@@ -3081,6 +3096,7 @@
 				"gender": "m",
 				"birthyear": 1954,
 				"district": "Unterfarrnbach",
+				"image": "605.jpg",
 				"jobs": [
 					"Dipl.-Betriebswirt (FH)",
 					"selbständig"
@@ -3094,6 +3110,7 @@
 				"gender": "w",
 				"birthyear": 1980,
 				"district": "Poppenreuth",
+				"image": "606.jpg",
 				"jobs": [
 					"Volljuristin im öffentl. Dienst"
 				]
@@ -3105,6 +3122,7 @@
 				"surname": "Eggen",
 				"gender": "m",
 				"birthyear": 1993,
+				"image": "607.jpg",
 				"jobs": [
 					"B.A.",
 					"Angestellter in Steuerkanzlei"
@@ -3191,6 +3209,7 @@
 				"gender": "m",
 				"birthyear": 1939,
 				"district": "Stadeln",
+				"image": "614.jpg",
 				"jobs": [
 					"Dipl.-Volksw.",
 					"Rentner"

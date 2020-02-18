@@ -62,6 +62,9 @@ async function getParties() {
         'langform',
         'farbe',
         'homepage',
+        'facebook',
+        'instagram',
+        'twitter',
         'logo'
       ])
     });
