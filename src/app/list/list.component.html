@@ -1,5 +1,9 @@
 <section class="list">
-  <div class="listheader">Wahlvorschlag Nr. {{list.nummer}}</div>
+  <div class="listheader">
+    <h4>Wahlvorschlag Nr. {{list.nummer}}</h4>
+    <div><b>Frauenquote:</b> {{womensQuota}} %</div>
+    <div><b>Altersdurchschnitt:</b> {{ageAverage}} Jahre</div>
+  </div>
 
   <div *ngIf="list.partei.logo" class="logo"><img [src]="list.partei.logo" /></div>
 

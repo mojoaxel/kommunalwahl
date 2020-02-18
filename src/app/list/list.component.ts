@@ -38,4 +38,21 @@ export class ListComponent implements OnInit {
     }
     return ``;
   }
+
+  get womensQuota() {
+    if (this.list && this.list.kandidaten && this.list.kandidaten.length) {
+      const womanCount = this.list.kandidaten.map(c => c.gender).filter(g => g === 'w').length;
+      return ((womanCount / this.list.kandidaten.length) * 100).toFixed(0);
+    }
+    return '?';
+  }
+
+  get ageAverage() {
+    if (this.list && this.list.kandidaten && this.list.kandidaten.length) {
+      const year = (new Date()).getFullYear();
+      const avrgAge = this.list.kandidaten.map(c => (year - c.birthyear)).reduce((sum, age) => sum + age, 0) / this.list.kandidaten.length;
+      return avrgAge.toFixed(0);
+    }
+    return '?';
+  }
 }
